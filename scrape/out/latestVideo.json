@@ -1,0 +1,54 @@
+[
+  {
+    "nama": "MBG: Bukan Sekedar Makan Gratis!",
+    "slug": "mbg-bukan-sekedar-makan-gratis",
+    "tanggal_dokumen": "2026-07-23T00:00:00.000000Z",
+    "thumbnail": "publikasi/thumbnail/cover_video_MBG.png",
+    "id": "ae5685ea-bb4f-4015-b538-7ca9c74ebf68",
+    "judul": "MBG: Bukan Sekedar Makan Gratis!",
+    "deskripsi": null,
+    "gambar_url": "https://uks.kemendikdasmen.go.id/storage/publikasi/cover/Screenshot 2026-08-20 160527.png",
+    "file_url": null,
+    "video_url": "https://www.youtube.com/watch?v=PdjSymf4ZSE",
+    "published_at": "2026-07-23 00:00:00"
+  },
+  {
+    "nama": "Penguatan Peran UKS di Satuan Pendidikan - Karawang 2025",
+    "slug": "penguatan-peran-uks-di-satuan-pendidikan-karawang-2025",
+    "tanggal_dokumen": "2025-11-10T10:00:00.000000Z",
+    "thumbnail": "https://i.ytimg.com/vi/iWr14i9aO2k/hqdefault.jpg",
+    "id": "35c543b8-603c-4a35-ab3a-827953f11483",
+    "judul": "Penguatan Peran UKS di Satuan Pendidikan - Karawang 2025",
+    "deskripsi": null,
+    "gambar_url": "https://mewarnai.id/wp-content/uploads/2020/11/bunga-matahari-di-pot.jpg",
+    "file_url": null,
+    "video_url": "https://www.youtube.com/watch?v=iWr14i9aO2k",
+    "published_at": "2025-11-10 10:00:00"
+  },
+  {
+    "nama": "Penguatan Peran UKS Jenjang SMP - Medan 2025",
+    "slug": "penguatan-peran-uks-jenjang-smp-medan-2025",
+    "tanggal_dokumen": "2025-10-21T12:56:00.000000Z",
+    "thumbnail": "https://i.ytimg.com/vi/qdsgqJSa8s0/hqdefault.jpg",
+    "id": "7f1606bf-ae00-4e79-9b19-a6679bccf42b",
+    "judul": "Penguatan Peran UKS Jenjang SMP - Medan 2025",
+    "deskripsi": null,
+    "gambar_url": "https://mewarnai.id/wp-content/uploads/2020/11/bunga-matahari-di-pot.jpg",
+    "file_url": null,
+    "video_url": "https://www.youtube.com/watch?v=qdsgqJSa8s0",
+    "published_at": "2025-10-21 12:56:00"
+  },
+  {
+    "nama": "Lagu Tujuh Kebiasaan Anak Indonesia Hebat",
+    "slug": "lagu-tujuh-kebiasaan-anak-indonesia-hebat",
+    "tanggal_dokumen": "2025-01-16T17:00:00.000000Z",
+    "thumbnail": "https://i.ytimg.com/vi/d1NwNLFT94g/hqdefault.jpg",
+    "id": "9d4eecb9-2449-4f7f-973a-b8a09450ba2d",
+    "judul": "Lagu Tujuh Kebiasaan Anak Indonesia Hebat",
+    "deskripsi": null,
+    "gambar_url": "https://mewarnai.id/wp-content/uploads/2020/11/bunga-matahari-di-pot.jpg",
+    "file_url": null,
+    "video_url": "https://www.youtube.com/watch?v=d1NwNLFT94g",
+    "published_at": "2025-01-16 17:00:00"
+  }
+]

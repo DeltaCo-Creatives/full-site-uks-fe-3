@@ -1,0 +1,840 @@
+[
+  {
+    "id": "27416f21-3112-4405-81e1-64f9a334543d",
+    "kode": "beranda",
+    "title": "Beranda",
+    "icon": null,
+    "url": "/",
+    "type": "item",
+    "children": []
+  },
+  {
+    "id": "317cd3c9-4540-4dd7-9e84-fb5f0fa6406f",
+    "kode": "uks/m",
+    "title": "UKS/M",
+    "icon": null,
+    "url": null,
+    "type": "group",
+    "children": [
+      {
+        "id": "50a8c799-ce42-4497-86f6-40508b46aa9d",
+        "kode": "deskripsi-umum",
+        "title": "Deskripsi Umum",
+        "icon": null,
+        "url": "/tentang-uks/deskripsi-umum",
+        "type": "item",
+        "children": []
+      },
+      {
+        "id": "aac527ee-57f1-4f78-883a-4d619173589f",
+        "kode": "tujuan",
+        "title": "Tujuan",
+        "icon": null,
+        "url": "/tentang-uks/tujuan",
+        "type": "item",
+        "children": []
+      },
+      {
+        "id": "3cdf4428-20df-4e53-a84f-ea877b9d5d2a",
+        "kode": "sasaran",
+        "title": "Sasaran",
+        "icon": null,
+        "url": "/tentang-uks/sasaran",
+        "type": "item",
+        "children": []
+      },
+      {
+        "id": "ea280785-87fe-4507-a053-556586695766",
+        "kode": "struktur-organisasi",
+        "title": "Struktur Organisasi",
+        "icon": null,
+        "url": null,
+        "type": "collapse",
+        "children": [
+          {
+            "id": "8a21a799-0295-422a-a378-bf482198b186",
+            "kode": "tim-pembina-uks/m",
+            "title": "Tim Pembina UKS/M",
+            "icon": null,
+            "url": "/tentang-uks/struktur-organisasi-tim-pembina",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "509ba54e-61d8-4ec1-9625-2e6ac9842401",
+            "kode": "tim-pelaksana-uks/m-di-sekolah/madrasah",
+            "title": "Tim Pelaksana UKS/M di Sekolah/Madrasah",
+            "icon": null,
+            "url": "/tentang-uks/struktur-organisasi-timpelaksana",
+            "type": "item",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "c61f05f0-280b-4111-9caf-3472323ba0c7",
+        "kode": "stratifikasi-uks",
+        "title": "Stratifikasi UKS/M",
+        "icon": null,
+        "url": "https://stratifikasiuks.org/",
+        "type": "link",
+        "children": []
+      },
+      {
+        "id": "2c4d2ebf-83d0-44e2-8170-c4dee150d35d",
+        "kode": "manajemen-uks/m",
+        "title": "Manajemen UKS/M",
+        "icon": null,
+        "url": "/program/manajemen-uks-m",
+        "type": "item",
+        "children": []
+      },
+      {
+        "id": "fa0a76ea-25a4-46d8-9d9f-1add53df0e44",
+        "kode": "trias-uks/m-:",
+        "title": "TRIAS UKS/M :",
+        "icon": null,
+        "url": "/tentang-uks/deskripsi-umum",
+        "type": "item",
+        "children": []
+      },
+      {
+        "id": "a57b0cd9-e071-44cc-ac3b-a67a3aebcf23",
+        "kode": "(1)-pendidikan-kesehatan",
+        "title": "(1) Pendidikan Kesehatan",
+        "icon": null,
+        "url": null,
+        "type": "collapse",
+        "children": [
+          {
+            "id": "e96ad7ed-e7a6-412b-a725-ac1cf7b88201",
+            "kode": "literasi-kesehatan",
+            "title": "Literasi Kesehatan",
+            "icon": null,
+            "url": "/program/literasi-kesehatan",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "ce8b79ea-0753-4106-afcf-1870cd03adf9",
+            "kode": "perilaku-hidup-bersih-dan-sehat",
+            "title": "Perilaku Hidup Bersih dan Sehat",
+            "icon": null,
+            "url": "/program/perilaku-hidup-bersih-dan-sehat",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "5f6bae80-58ae-4dfc-917d-4583b71da20c",
+            "kode": "pendidikan-gizi",
+            "title": "Pendidikan Gizi",
+            "icon": null,
+            "url": "/program/pendidikan-gizi",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "e6597fc1-222c-42de-9f38-60b3e1b3de43",
+            "kode": "pendidikan-kesehatan-reproduksi",
+            "title": "Pendidikan Kesehatan Reproduksi",
+            "icon": null,
+            "url": "/program/pendidikan-kesehatan-reproduksi",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "544a3a6f-9a9d-4bd1-9992-72b913e76656",
+            "kode": "pendidikan-karakter",
+            "title": "Pendidikan Karakter",
+            "icon": null,
+            "url": "/program/pendidikan-karakter",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "bfcbf38e-0a07-4f0e-8b49-57ca1f89ee44",
+            "kode": "pembiasaan-aktivitas-fisik",
+            "title": "Pembiasaan Aktivitas Fisik",
+            "icon": null,
+            "url": "/program/pembiasaan-aktivitas-fisik",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "bd249cc9-4273-4b0a-9ffd-5e7618fd074d",
+            "kode": "dokter-kecil",
+            "title": "Dokter Kecil",
+            "icon": null,
+            "url": "/program/dokter-kecil",
+            "type": "item",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "df1885a2-1659-41cd-9e62-c9c30c96519f",
+        "kode": "(2)-pelayanan-kesehatan",
+        "title": "(2) Pelayanan Kesehatan",
+        "icon": null,
+        "url": null,
+        "type": "collapse",
+        "children": [
+          {
+            "id": "914392c7-47eb-474d-b547-9e7cd959d2af",
+            "kode": "penjaringan-kesehatan-dan-pemeriksaan-berkala",
+            "title": "Penjaringan Kesehatan dan Pemeriksaan Berkala",
+            "icon": null,
+            "url": "/program/penjaringan-kesehatan-dan-pemeriksaan-berkala",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "7129f0a4-1551-42b5-80e3-a5788b734fd7",
+            "kode": "imunisasi",
+            "title": "Imunisasi",
+            "icon": null,
+            "url": "/program/imunisasi",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "75abcbf0-d782-440d-90b4-78087adc3e91",
+            "kode": "pemberian-obat-cacing",
+            "title": "Pemberian Obat Cacing",
+            "icon": null,
+            "url": "/program/pemberian-obat-cacing",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "98ddc2fb-520a-44c1-8ef9-c7f933c22333",
+            "kode": "p3k-dan-p3p",
+            "title": "P3K dan P3P",
+            "icon": null,
+            "url": "/program/p3k-dan-p3p",
+            "type": "item",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "489a1012-ed37-4b96-9367-47926e977a95",
+        "kode": "(3)-pembinaan-lingkungan-sekolah-sehat",
+        "title": "(3) Pembinaan Lingkungan Sekolah Sehat",
+        "icon": null,
+        "url": null,
+        "type": "collapse",
+        "children": [
+          {
+            "id": "9b0ca234-7dc8-400d-a33e-91b379c91371",
+            "kode": "sanitasi-sekolah",
+            "title": "Sanitasi Sekolah",
+            "icon": null,
+            "url": "/program/sanitasi-sekolah",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "98f0c101-c234-42e4-9686-d0d58e402150",
+            "kode": "pembinaan-kantin-sehat",
+            "title": "Pembinaan Kantin Sehat",
+            "icon": null,
+            "url": "/program/pembinaan-kantin-sehat",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "e2e8f95f-6ee2-47fb-9358-8ff3f966717e",
+            "kode": "pemanfaatan-pekarangan-sekolah",
+            "title": "Pemanfaatan Pekarangan Sekolah",
+            "icon": null,
+            "url": "/program/pemanfaatan-pekarangan-sekolah",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "3f514e4c-312e-47f2-ac33-2be0f9d1681c",
+            "kode": "pemberantasan-sarang-nyamuk",
+            "title": "Pemberantasan Sarang Nyamuk",
+            "icon": null,
+            "url": "/program/pemberantasan-sarang-nyamuk",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "8b5c7368-c783-4db2-ba73-73eb9d0811f3",
+            "kode": "kawasan-tanpa-rokok,-napza,-kekerasan-dan-pornografi",
+            "title": "Kawasan Tanpa Rokok, Napza, Kekerasan dan Pornografi",
+            "icon": null,
+            "url": "/program/kawasan-tanpa-rokok,-napza,-kekerasan-dan-pornografi",
+            "type": "item",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "869525c4-13e0-470a-9ba0-316871947ce9",
+        "kode": "sekolah-sehat",
+        "title": "Sekolah Sehat",
+        "icon": null,
+        "url": "/sekolah-sehat",
+        "type": "collapse",
+        "children": [
+          {
+            "id": "96d9b1be-0aa5-4308-b334-f64444d472de",
+            "kode": "gerakan-madrasah-sehat",
+            "title": "Gerakan Madrasah Sehat",
+            "icon": null,
+            "url": "https://madrasah.kemenag.go.id/madrasahsehat/",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "8c4d938f-aaaa-440f-96b8-6f256e605f98",
+            "kode": "gerakan-sekolah-sehat",
+            "title": "Gerakan Sekolah Sehat",
+            "icon": null,
+            "url": "/sekolah-sehat/gerakan-sekolah-sehat",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "4dc9325a-d4ca-4960-a953-958ce1250686",
+            "kode": "sehat-bergizi",
+            "title": "Sehat Bergizi",
+            "icon": null,
+            "url": "/sekolah-sehat/sehat-bergizi",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "309ee57b-0c44-495a-9a59-ad8d0a26d076",
+            "kode": "sehat-fisik",
+            "title": "Sehat Fisik",
+            "icon": null,
+            "url": "/sekolah-sehat/sehat-fisik",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "12392b49-b76b-4557-b14b-a6afc99cf8a7",
+            "kode": "sehat-imunisasi",
+            "title": "Sehat Imunisasi",
+            "icon": null,
+            "url": "/sekolah-sehat/sehat-imunisasi",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "e4575875-c165-4f5c-9e1e-70a894cda438",
+            "kode": "sehat-jiwa",
+            "title": "Sehat Jiwa",
+            "icon": null,
+            "url": "/sekolah-sehat/sehat-jiwa",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "c7c95bba-a3c2-4041-938c-082aad8cc9f1",
+            "kode": "sehat-lingkungan",
+            "title": "Sehat Lingkungan",
+            "icon": null,
+            "url": "/sekolah-sehat/sehat-lingkungan",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "fdbf777d-1b7f-48f5-8b9c-390724d20a7d",
+            "kode": "bahan-advokasi-gss",
+            "title": "Bahan Advokasi GSS",
+            "icon": null,
+            "url": "/sekolah-sehat/bahan-advokasi",
+            "type": "item",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c5332ca7-31a2-4db3-8ddb-e6d9e3a7db18",
+    "kode": "program",
+    "title": "Program",
+    "icon": null,
+    "url": null,
+    "type": "collapse",
+    "children": [
+      {
+        "id": "e948e40e-dd7b-4fa5-afad-b58b6e80f04a",
+        "kode": "7kaih",
+        "title": "7KAIH",
+        "icon": null,
+        "url": null,
+        "type": "group",
+        "children": [
+          {
+            "id": "dc37db73-51f0-4063-b94f-42645cef56ac",
+            "kode": "cerdas-berkarakter",
+            "title": "Cerdas Berkarakter",
+            "icon": null,
+            "url": "https://cerdasberkarakter.kemendikdasmen.go.id/",
+            "type": "link",
+            "children": []
+          },
+          {
+            "id": "df2f0146-b225-4990-8744-c1bbcfb82db5",
+            "kode": "lomba-semarak-anak-indonesia-hebat-2025",
+            "title": "Lomba Semarak Anak Indonesia Hebat 2025",
+            "icon": null,
+            "url": null,
+            "type": "collapse",
+            "children": [
+              {
+                "id": "07ff4cb0-b5ab-4c05-a324-954efbfa9a53",
+                "kode": "informasi-umum",
+                "title": "Informasi Umum",
+                "icon": null,
+                "url": "/gala-kreasi/informasi-lomba-saih-2025",
+                "type": "item",
+                "children": []
+              },
+              {
+                "id": "b139142a-c2a9-4727-b6bb-aa8ad0a1a395",
+                "kode": "pengumuman-pemenang-2025",
+                "title": "Pengumuman Pemenang 2025",
+                "icon": null,
+                "url": "/gala-kreasi/pengumuman-pemenang-2025",
+                "type": "item",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "32928ffc-d081-4fae-a449-238e1a804c02",
+            "kode": "gala-kreasi-video-2024",
+            "title": "Gala Kreasi Video 2024",
+            "icon": null,
+            "url": null,
+            "type": "collapse",
+            "children": [
+              {
+                "id": "0553c08e-7cb5-42aa-acd8-849a9ae01b25",
+                "kode": "mekanisme",
+                "title": "Mekanisme",
+                "icon": null,
+                "url": "/gala-kreasi/gala-kreasi-2024",
+                "type": "item",
+                "children": []
+              },
+              {
+                "id": "6388de7d-4288-468f-a335-8f19f6e5f923",
+                "kode": "pengumuman-pemenang",
+                "title": "Pengumuman Pemenang",
+                "icon": null,
+                "url": "/gala-kreasi/gala-kreasi-2024-pemenang",
+                "type": "item",
+                "children": []
+              },
+              {
+                "id": "188bf8ee-bb63-4237-956d-69402a32d57c",
+                "kode": "video-pemenang",
+                "title": "Video Pemenang",
+                "icon": null,
+                "url": "/gala-kreasi/gala-kreasi-2024-video-pemenang",
+                "type": "item",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "38befc29-72da-4678-aa55-f92653be303a",
+            "kode": "gala-kreasi-video-2023",
+            "title": "Gala Kreasi Video 2023",
+            "icon": null,
+            "url": "/gala-kreasi/gala-kreasi-2023",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "39c1cb22-9946-48fe-9b10-aff29fdc7394",
+            "kode": "praktik-baik-7kaih",
+            "title": "Praktik Baik 7KAIH",
+            "icon": null,
+            "url": "/informasi/praktik-baik?kategori=15&page=1",
+            "type": "item",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "255f4ebc-0aa4-488c-83d4-100a2c438e0b",
+        "kode": "mbg",
+        "title": "MBG",
+        "icon": null,
+        "url": null,
+        "type": "group",
+        "children": [
+          {
+            "id": "29dcce33-c1ac-49ab-813d-062744d94553",
+            "kode": "dasbor-mbg",
+            "title": "Dasbor MBG",
+            "icon": null,
+            "url": "https://mbg.pdm.kemendikdasmen.go.id/portal",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "c8b3b564-7ea2-4b46-b7c3-4c3050bb9c89",
+            "kode": "badan-gizi-nasional",
+            "title": "Badan Gizi Nasional",
+            "icon": null,
+            "url": "https://www.bgn.go.id/",
+            "type": "link",
+            "children": []
+          },
+          {
+            "id": "66c92ee4-2c3c-44b1-80d8-312b48cb3096",
+            "kode": "praktik-baik-mbg",
+            "title": "Praktik Baik MBG",
+            "icon": null,
+            "url": "/informasi/praktik-baik?kategori=16&page=1",
+            "type": "item",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "d67eba4a-ea1c-4590-8fa2-080571daab85",
+        "kode": "cek-kesehatan-gratis",
+        "title": "Cek Kesehatan Gratis",
+        "icon": null,
+        "url": "/program/cek-kesehatan-gratis",
+        "type": "button",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "2efef9c0-84e8-4fd6-865f-7141a8cd1aea",
+    "kode": "mitra",
+    "title": "Mitra",
+    "icon": null,
+    "url": null,
+    "type": "group",
+    "children": [
+      {
+        "id": "454e2060-0271-488a-8013-1a1e6f5dee35",
+        "kode": "panduan-kemitraan",
+        "title": "Panduan Kemitraan",
+        "icon": null,
+        "url": "/mitra/panduan-kemitraan",
+        "type": "item",
+        "children": []
+      },
+      {
+        "id": "e77f3927-e604-4d90-bebc-55b9d54b3718",
+        "kode": "pendaftaran-mitra",
+        "title": "Pendaftaran Mitra",
+        "icon": null,
+        "url": "/mitra/pendaftaran-mitra",
+        "type": "item",
+        "children": []
+      },
+      {
+        "id": "f0422389-4478-4ed8-a59f-2bd765d60569",
+        "kode": "mitra-kami",
+        "title": "Mitra Kami",
+        "icon": null,
+        "url": "/mitra/mitra-kami",
+        "type": "item",
+        "children": []
+      },
+      {
+        "id": "a9a8b441-6eb5-4a40-9504-15503d1eabf0",
+        "kode": "aktivitas-mitra",
+        "title": "Aktivitas Mitra",
+        "icon": null,
+        "url": "/aktifitas-mitra",
+        "type": "item",
+        "children": []
+      },
+      {
+        "id": "ca4f5fab-2f1e-4d03-b865-fee24319b892",
+        "kode": "dukungan-mitra",
+        "title": "Dukungan Mitra",
+        "icon": null,
+        "url": "/mitra/dukungan-mitra",
+        "type": "item",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "e7f8a558-8eb7-42e2-8165-66d0aeeee3f6",
+    "kode": "informasi",
+    "title": "Informasi",
+    "icon": null,
+    "url": null,
+    "type": "collapse",
+    "children": [
+      {
+        "id": "71f823e8-8dd0-414b-8952-96a5f89c7cab",
+        "kode": "upt-bercerita",
+        "title": "UPT Bercerita",
+        "icon": null,
+        "url": "/informasi/upt-bercerita",
+        "type": "group",
+        "children": []
+      },
+      {
+        "id": "f5e4e3d1-b6aa-4735-8b16-9ac409615ea6",
+        "kode": "berita",
+        "title": "Berita",
+        "icon": null,
+        "url": "/halaman/berita",
+        "type": "item",
+        "children": []
+      },
+      {
+        "id": "dc383b77-20f9-4f4c-a659-35c0f74246bc",
+        "kode": "praktik-baik",
+        "title": "Praktik Baik",
+        "icon": null,
+        "url": "/informasi/praktik-baik",
+        "type": "item",
+        "children": []
+      },
+      {
+        "id": "0ee09984-a0a5-4ec3-94ac-0cb839ecf1a6",
+        "kode": "agenda",
+        "title": "Agenda",
+        "icon": null,
+        "url": "/informasi/agenda",
+        "type": "item",
+        "children": []
+      },
+      {
+        "id": "36258b70-4ce9-4cda-87bf-08c0bb2043f1",
+        "kode": "aplikasi",
+        "title": "Aplikasi",
+        "icon": null,
+        "url": "/informasi/aplikasi",
+        "type": "item",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "096b2d0e-98be-4465-83ce-525c7037f3e3",
+    "kode": "publikasi",
+    "title": "Publikasi",
+    "icon": null,
+    "url": null,
+    "type": "collapse",
+    "children": [
+      {
+        "id": "9d627379-e9b3-4055-9015-20ef67c4700f",
+        "kode": "produk-hukum",
+        "title": "Produk Hukum",
+        "icon": null,
+        "url": "/dokumen/produk-hukum",
+        "type": "item",
+        "children": []
+      },
+      {
+        "id": "8f2e1171-aa8c-4fcc-ad8a-a4657e54bc32",
+        "kode": "buku-panduan",
+        "title": "Buku Panduan",
+        "icon": "bookmark_border",
+        "url": "/dokumen/publikasi/buku-panduan",
+        "type": "item",
+        "children": []
+      },
+      {
+        "id": "5bed03ca-2ff0-4290-bab6-d0a36648b353",
+        "kode": "infografis",
+        "title": "Infografis",
+        "icon": "insert_chart",
+        "url": "/dokumen/publikasi/infografis",
+        "type": "item",
+        "children": []
+      },
+      {
+        "id": "5d289c7c-de3b-4f65-aa83-ff97aaf900f3",
+        "kode": "video",
+        "title": "Video",
+        "icon": "ondemand_video",
+        "url": "/dokumen/publikasi/video",
+        "type": "item",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "b9784467-d0a5-4e70-98e2-dd7906f59967",
+    "kode": "tautan",
+    "title": "Tautan",
+    "icon": null,
+    "url": null,
+    "type": "collapse",
+    "children": [
+      {
+        "id": "85280e9b-d8f3-466b-a917-47f2744f0ecc",
+        "kode": "kemenkes",
+        "title": "Kemenkes",
+        "icon": null,
+        "url": null,
+        "type": "collapse",
+        "children": [
+          {
+            "id": "f7c399e9-3ad6-4ec7-ad0f-58b21e8ee856",
+            "kode": "kementerian-kesehatan",
+            "title": "Kementerian Kesehatan",
+            "icon": "spa",
+            "url": "https://kemkes.go.id/",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "30072a3f-7dbd-464b-984e-7b1b67eb3188",
+            "kode": "ayo-sehat-kemenkes",
+            "title": "Ayo Sehat Kemenkes",
+            "icon": "spa",
+            "url": "https://ayosehat.kemkes.go.id/",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "7c2dc502-18f1-4272-958d-c2a3e1f313dc",
+            "kode": "perangkat-ajar-kesehatan",
+            "title": "Perangkat Ajar Kesehatan",
+            "icon": "spa",
+            "url": "https://ayosehat.kemkes.go.id/perangkat-ajar-kesehatan",
+            "type": "item",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "7062bf3b-02ed-4e06-bc44-c6ec1092c52d",
+        "kode": "kemendikdasmen",
+        "title": "Kemendikdasmen",
+        "icon": null,
+        "url": null,
+        "type": "collapse",
+        "children": [
+          {
+            "id": "9b6d459b-f8e6-4dfc-a24f-19750edc18e4",
+            "kode": "ditjen-pauddikdasmen",
+            "title": "Ditjen PAUDDIKDASMEN",
+            "icon": null,
+            "url": "https://pdm.kemendikdasmen.go.id/",
+            "type": "link",
+            "children": []
+          },
+          {
+            "id": "6093d6cd-3acc-431f-8aae-21c3547022bd",
+            "kode": "direktorat-paud",
+            "title": "Direktorat PAUD",
+            "icon": null,
+            "url": "https://paudpedia.kemendikdasmen.go.id/",
+            "type": "link",
+            "children": []
+          },
+          {
+            "id": "c3564fa6-068d-4784-8b5e-48b1e61dccd7",
+            "kode": "direktorat-sd",
+            "title": "Direktorat SD",
+            "icon": "apps",
+            "url": "https://ditsd.kemendikdasmen.go.id/hal/usaha-kesehatan-sekolah",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "2a609a67-6ba9-4cc2-8331-25f319788b33",
+            "kode": "direktorat-smp",
+            "title": "DIrektorat SMP",
+            "icon": null,
+            "url": "https://ditsmp.kemendikdasmen.go.id",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "2b183c81-e265-4b4e-931b-8348f82351c6",
+            "kode": "direktorat-sma",
+            "title": "Direktorat SMA",
+            "icon": null,
+            "url": "https://sma.kemendikdasmen.go.id",
+            "type": "item",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "a7477502-f342-44f6-8aa4-bbb287e08731",
+        "kode": "kemenag",
+        "title": "Kemenag",
+        "icon": null,
+        "url": null,
+        "type": "collapse",
+        "children": [
+          {
+            "id": "ac21b181-f496-407f-8f56-03d223773ae3",
+            "kode": "direktorat-kskk",
+            "title": "Direktorat KSKK",
+            "icon": null,
+            "url": "https://pendis.kemenag.go.id/ditkskkmadrasah",
+            "type": "item",
+            "children": []
+          },
+          {
+            "id": "e8e74186-9cde-435b-b0bb-2e4ddba72596",
+            "kode": "direktorat-pesantren",
+            "title": "Direktorat Pesantren",
+            "icon": null,
+            "url": "https://pendis.kemenag.go.id/ditpdpontren",
+            "type": "item",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1c392b63-23ed-4766-8c91-757641bd9094",
+        "kode": "kemendagri",
+        "title": "Kemendagri",
+        "icon": null,
+        "url": null,
+        "type": "collapse",
+        "children": [
+          {
+            "id": "37e2dd5e-c1f0-44ae-be49-d7787b5a35e9",
+            "kode": "direktorat-supd",
+            "title": "Direktorat SUPD",
+            "icon": null,
+            "url": "https://bangda.kemendagri.go.id/",
+            "type": "item",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "997ebb97-8de8-4e60-b9c5-ee3c134ee3dc",
+    "kode": "",
+    "title": null,
+    "icon": "search",
+    "url": "/pencarian",
+    "type": "item",
+    "children": []
+  },
+  {
+    "id": "a698c43b-a0a1-429d-b811-3e4a769e2a90",
+    "kode": "",
+    "title": null,
+    "icon": "call",
+    "url": "/kontak",
+    "type": "item",
+    "children": []
+  }
+]

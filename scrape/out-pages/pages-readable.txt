@@ -1,0 +1,844 @@
+
+
+================================================================================
+PATH: /tentang-uks/deskripsi-umum
+COMPONENT: TentangUKS/Show
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- content ---
+{
+ "judul": "Deskripsi Umum",
+ "slug": "deskripsi-umum",
+ "tanggal_publis": null,
+ "images": null,
+ "last_sync": null,
+ "sorting": 0,
+ "konten": "<h1 style=\"text-align: center;\"></h1><p><img src=\"https://uks.kemendikdasmen.go.id/storage/psDNO65f4PN7nZQyS5LGwFcS9fo2CayDQMr6lZRH.png\" data-id=\"psDNO65f4PN7nZQyS5LGwFcS9fo2CayDQMr6lZRH.png\"></p><p></p><p></p><h2 style=\"text-align: left;\"><strong>Usaha Kesehatan Sekolah/ Madrasah</strong></h2><p style=\"text-align: justify;\"></p><p style=\"text-align: justify;\">Usaha Kesehatan Sekolah/ Madrasah (UKS/M) merupakan adalah kegiatan yang dilakukan untuk meningkatkan kesehatan anak usia sekolah pada setiap jalur, jenis, dan jenjang pendidikan. UKS/M diwujudkan melalui pelaksanaan <strong>Trias UKS/M</strong> yakni:</p><p style=\"text-align: justify;\"></p><p style=\"text-align: justify;\"><strong>1) Pendidikan Kesehatan:</strong> adalah kegiatan yang ditujukan untuk meningkatkan pengetahuan, sikap, dan perilaku serta keterampilan hidup sehat. Pendidikan kesehatan dilakukan melalui intrakurikuler, ekstrakurikuler dan kokurikuler.<strong> </strong>Kegiatan ini diimplementasikan di lingkungan sekolah melalui tiga pendekatan: Intrakurikuler (terintegrasi dalam pelajaran), Ekstrakurikuler (kegiatan tambahan di luar jam pelajaran, seperti klub), dan Kokurikuler (kegiatan yang melengkapi kurikulum inti). Tujuannya adalah membentuk individu dengan gaya hidup yang lebih sehat.</p><p style=\"text-align: justify;\"></p><p style=\"text-align: justify;\"><strong>2) Pelayanan Kesehatan:</strong> adalah setiap upaya yang diselenggarakan sendiri atau secara bersama-sama untuk memelihara dan meningkatkan kesehatan melalui upaya promotif, preventif, kuratif dan rehabilitatif. Pelayanan kesehatan dilakukan melalui kegiatan skrining kesehatan, pemberian suplementasi (Vitamin A, Tablet Tambah Darah), Pemberian Pertolongan Pertama pada Kecelakaan (P3K), Pertolongan Pertama pada Penyakit (P3P) dan Pertolongan Pertama pada Luka Psikologis (P3LP), imunisasi, konseling dan rujukan.</p><p style=\"text-align: justify;\"></p><p style=\"text-align: justify;\"><strong>3) Pembinaan Lingkungan Sekolah Sehat:</strong> adalah usaha untuk menciptakan kondisi lingkungan sekolah yang sehat secara fisik, sosial dan emosional dan dapat mendukung proses pendidikan sehingga mencapai hasil yang optimal. Pembinaan lingkungan sekolah sehat dilakukan melalui penyediaan sarana prasarana seperti air besih, toilet, sarana CTPS dan tempat sampah, serti kegiatan pembinaan lingkungan seperti kantin, pengelolaan sampah, dan pemanfaatan pekarangan sekolah.</p><p style=\"text-align: justify;\"></p><p></p><p><img src=\"https://is3.cloudhost.id/storagedirectus1/manajemen_uks/files/images/uRNAybA2IYkJJJdLKXBhjvFFZtOnh2ZKH7Xtl9FT.png\" alt=\"TRIAS\" width=\"431px\" style=\"width: 431px; height: 524px;\" height=\"524px\"></p><p></p><h2><strong>Tujuan UKS/M</strong></h2><p></p><p>Tujuan Usaha Kesehatan Sekolah/ Madrasah bertujuan meningkatkan kesehatan, mutu
+...[TRUNCATED]
+
+--- sectionNavItems ---
+[
+ {
+  "label": "Deskripsi Umum",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/deskripsi-umum",
+  "active": true
+ },
+ {
+  "label": "Tujuan",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/tujuan",
+  "active": false
+ },
+ {
+  "label": "Struktur Organisasi Tim Pembina",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/struktur-organisasi-tim-pembina",
+  "active": false
+ },
+ {
+  "label": "Struktur Organisasi Tim Pelaksana",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/struktur-organisasi-timpelaksana",
+  "active": false
+ },
+ {
+  "label": "Sasaran",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/sasaran",
+  "active": false
+ }
+]
+
+
+================================================================================
+PATH: /tentang-uks/tujuan
+COMPONENT: TentangUKS/Show
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- content ---
+{
+ "judul": "Tujuan",
+ "slug": "tujuan",
+ "tanggal_publis": null,
+ "images": null,
+ "last_sync": null,
+ "sorting": 1,
+ "konten": "<h1><strong>Tujuan UKS/M</strong></h1><p></p><p><img src=\"https://uks.kemendikdasmen.go.id/storage/vUzaaBGGGjgoqRCif5QeW9zj9sxI12ryzg5VxBnD.png\" alt=\"tujuan\" data-id=\"vUzaaBGGGjgoqRCif5QeW9zj9sxI12ryzg5VxBnD.png\"></p><p></p><p>Tujuan UKS/M yaitu untuk meningkatkan mutu pendidikan dan prestasi belajar peserta didik dengan meningkatkan perilaku hidup bersih dan sehat serta menciptakan lingkungan pendidikan yang sehat, sehingga memungkinkan pertumbuhan dan perkembangan yang harmonis peserta didik.</p>"
+}
+
+--- sectionNavItems ---
+[
+ {
+  "label": "Deskripsi Umum",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/deskripsi-umum",
+  "active": false
+ },
+ {
+  "label": "Tujuan",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/tujuan",
+  "active": true
+ },
+ {
+  "label": "Struktur Organisasi Tim Pembina",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/struktur-organisasi-tim-pembina",
+  "active": false
+ },
+ {
+  "label": "Struktur Organisasi Tim Pelaksana",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/struktur-organisasi-timpelaksana",
+  "active": false
+ },
+ {
+  "label": "Sasaran",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/sasaran",
+  "active": false
+ }
+]
+
+
+================================================================================
+PATH: /tentang-uks/sasaran
+COMPONENT: TentangUKS/Show
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- content ---
+{
+ "judul": "Sasaran",
+ "slug": "sasaran",
+ "tanggal_publis": null,
+ "images": null,
+ "last_sync": null,
+ "sorting": 4,
+ "konten": "<h1><span style=\"color: rgb(17,24,39);background-color: rgb(255,255,255);font-size: 20px;font-family: Poppins, Roboto, \"Helvetica Neue\", Arial, sans-serif;\">Sasaran UKS/M</span></h1>\n<p></p>\n<p></p>\n<img src=\"https://uks.kemendikdasmen.go.id//storage/manajemen_uks/files/images/9rLIf8nUVmWmmNS2KnpjKShRRRfn4RYHV2r04RVy.jpg\" alt=\"target\" style=\"height: 200px;width: auto\"/>\n<p></p>\n<h2></h2>\n<p style=\"text-align:justify;\"><br><span style=\"font-size: 16px;\">Usaha Kesehatan Sekolah (UKS) adalah usaha kesehatan yang ada didalam lingkungan sekolah maupun yang ada di sekitar lingkungan sekolah, yang sasaran utamanya adalah <strong>peserta didik, pendidik, tenaga kependidikan</strong>, beserta <strong>masyarakat sekolah </strong>lainnya yang bertujuan untuk meningkatkan kemampuan hidup sehat peserta didik dapat belajar, tumbuh dan berkembang secara harmonis serta optimal, menjadi sumber daya manusia yang berkualitas. </span><br><br><span style=\"font-size: 16px;\"><strong>STAKEHOLDER</strong></span></p>\n<p><span style=\"font-size: 16px;\">Kepala Sekolah, GTK, Peserta Didik, Komite Sekolah, Masyarakat Setempat, Puskesmas.</span></p>\n<p></p>"
+}
+
+--- sectionNavItems ---
+[
+ {
+  "label": "Deskripsi Umum",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/deskripsi-umum",
+  "active": false
+ },
+ {
+  "label": "Tujuan",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/tujuan",
+  "active": false
+ },
+ {
+  "label": "Struktur Organisasi Tim Pembina",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/struktur-organisasi-tim-pembina",
+  "active": false
+ },
+ {
+  "label": "Struktur Organisasi Tim Pelaksana",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/struktur-organisasi-timpelaksana",
+  "active": false
+ },
+ {
+  "label": "Sasaran",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/sasaran",
+  "active": true
+ }
+]
+
+
+================================================================================
+PATH: /tentang-uks/struktur-organisasi-tim-pembina
+COMPONENT: TentangUKS/Show
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- content ---
+{
+ "judul": "Struktur Organisasi Tim Pembina",
+ "slug": "struktur-organisasi-tim-pembina",
+ "tanggal_publis": null,
+ "images": null,
+ "last_sync": null,
+ "sorting": 2,
+ "konten": "<h1><span style=\"font-size: 24px;\">Struktur Organisasi Tim Pembina UKS/M</span></h1>\n<p>&nbsp;</p>\n<p><span style=\"color: rgb(17,24,39); background-color: rgb(255,255,255); font-size: 16px;\">Tim Pembina UKS/M yang selanjutnya disebut TP UKS/M adalah organisasi yang menangani UKS/M, baik ditingkat pusat, provinsi, kabupaten/kota dan kecamatan. </span></p>\n<p><span style=\"color: rgb(17,24,39); background-color: rgb(255,255,255); font-size: 16px;\">Untuk melaksanakan tugas pembinaan dan pengembangan UKS secara terpadu dan terkoordinasi, maka dibentuk Tim Pembina UKS pada setiap jenjang Pemerintahan, yaitu:</span></p>\n<ol>\n<li><span style=\"color: rgb(17,24,39); background-color: rgb(255,255,255); font-size: 16px;\">Tim Pembina UKS Tingkat Pusat;</span></li>\n<li><span style=\"color: rgb(17,24,39); background-color: rgb(255,255,255); font-size: 16px;\">Tim Pembina UKS Tingkat Provinsi;</span></li>\n<li><span style=\"color: rgb(17,24,39); background-color: rgb(255,255,255); font-size: 16px;\">Tim Pembina UKS Tingkat Kab/Kota;</span></li>\n<li><span style=\"color: rgb(17,24,39); background-color: rgb(255,255,255); font-size: 16px;\">Tim Pembina UKS Tingkat Kecamatan.</span></li>\n</ol>\n<p style=\"text-align: start;\"><br>&nbsp;</p>\n<p><img style=\"height: auto; width: auto;\" src=\"https://uks.kemendikdasmen.go.id//storage/manajemen_uks/files/images/wj8RI73KBeixjZcLu4OWVRXp1wudy9NbWpNP7Pnm.png\" alt=\"pembina\"></p>\n<p>&nbsp;</p>"
+}
+
+--- sectionNavItems ---
+[
+ {
+  "label": "Deskripsi Umum",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/deskripsi-umum",
+  "active": false
+ },
+ {
+  "label": "Tujuan",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/tujuan",
+  "active": false
+ },
+ {
+  "label": "Struktur Organisasi Tim Pembina",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/struktur-organisasi-tim-pembina",
+  "active": true
+ },
+ {
+  "label": "Struktur Organisasi Tim Pelaksana",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/struktur-organisasi-timpelaksana",
+  "active": false
+ },
+ {
+  "label": "Sasaran",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/sasaran",
+  "active": false
+ }
+]
+
+
+================================================================================
+PATH: /tentang-uks/struktur-organisasi-timpelaksana
+COMPONENT: TentangUKS/Show
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- content ---
+{
+ "judul": "Struktur Organisasi Tim Pelaksana",
+ "slug": "struktur-organisasi-timpelaksana",
+ "tanggal_publis": null,
+ "images": null,
+ "last_sync": null,
+ "sorting": 3,
+ "konten": "<h1><span style=\"color: rgb(17,24,39);background-color: rgb(255,255,255);font-family: Poppins, Roboto, \"Helvetica Neue\", Arial, sans-serif;\">Struktur Organisasi Tim Pelaksana UKS/M di Sekolah/Madrasah</span></h1>\n<h2><br><span style=\"color: rgb(17,24,39);background-color: rgb(255,255,255);font-size: 16px;\">Tim Pelaksana UKS/M adalah organisasi yang melaksanakan UKS/M yang berkedudukan di sekolah.</span>&nbsp;</h2>\n<h1 style=\"text-align:left;\"><span style=\"color: rgb(17,24,39);background-color: rgb(255,255,255);font-size: 16px;\">Fungsi</span></h1>\n<p style=\"text-align:justify;\"><span style=\"color: rgb(17,24,39);background-color: rgb(255,255,255);font-size: 16px;\">Tim Pelaksana UKS di sekolah dan perguruan agama berfungsi sebagai penanggungjawab dan pelaksana program UKS di sekolah dan perguruan agama berdasarkan prioritas kebutuhan dan kebijakan yang ditetapkan oleh TP UKS Kabupaten/Kota.</span></p>\n<h1 style=\"text-align:justify;\"><span style=\"color: rgb(17,24,39);background-color: rgb(255,255,255);font-size: 16px;\">Tugas</span></h1>\n<ol>\n<li><span style=\"color: rgb(17,24,39);background-color: rgb(255,255,255);font-size: 16px;\">Melaksanakan Tiga Program Pokok UKS yang terdiri dari Pendidikan Kesehatan, Pelayanan Kesehatan, dan Pembinaan Lingkungan Sekolah Sehat yang telah ditetapkan oleh Tim Pembina UKS; </span></li>\n<li><span style=\"color: rgb(17,24,39);background-color: rgb(255,255,255);font-size: 16px;\">Menjalin kerjasama dengan orang tua/komite sekolah, instansi lain dan masyarakat dalam pelaksanaan kegiatan UKS; </span></li>\n<li><span style=\"color: rgb(17,24,39);background-color: rgb(255,255,255);font-size: 16px;\">Menyusun program, melaksanakan penilaian/evaluasi dan menyampaikan laporan kepada Tim UKS Kecamatan;</span></li>\n<li style=\"text-align:start;\"><span style=\"color: rgb(17,24,39);background-color: rgb(255,255,255);font-size: 16px;\">Melaksanakan Ketatausahaan Tim Pelaksana UKS di Sekolah.</span> <br><br><br></li>\n</ol>\n<img src=\"https://uks.kemendikdasmen.go.id//storage/manajemen_uks/files/images/UW9rT7uQNfPfM3e7TDpX0AR7I9DnIMwOFKSFN2B0.png\" alt=\"pelaksana\" style=\"height: auto;width: auto\"/>\n<p style=\"text-align:start;\"></p>"
+}
+
+--- sectionNavItems ---
+[
+ {
+  "label": "Deskripsi Umum",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/deskripsi-umum",
+  "active": false
+ },
+ {
+  "label": "Tujuan",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/tujuan",
+  "active": false
+ },
+ {
+  "label": "Struktur Organisasi Tim Pembina",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/struktur-organisasi-tim-pembina",
+  "active": false
+ },
+ {
+  "label": "Struktur Organisasi Tim Pelaksana",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/struktur-organisasi-timpelaksana",
+  "active": true
+ },
+ {
+  "label": "Sasaran",
+  "href": "https://uks.kemendikdasmen.go.id/tentang-uks/sasaran",
+  "active": false
+ }
+]
+
+
+================================================================================
+PATH: /program/manajemen-uks-m
+COMPONENT: Program/Show
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- program ---
+{
+ "judul": "Manajemen UKS/M",
+ "konten": "<p>&nbsp;</p>\n<p><img style=\"height: auto; width: auto;\" src=\"https://is3.cloudhost.id/storagedirectus1/manajemen_uks/files/images/oRCszRjpbzZPkJPag7NCHpqf7zptBcIy5pcdINTV.jpeg\" alt=\"manajemen_uks\"></p>\n<p style=\"text-align: justify;\"><br><br>Manajemen Sekolah/Madrasah Sehat adalah kegiatan-kegiatan yang berhubungan dengan tata kelola pelaksanaan Trias UKS/M. Terdapat 5 (lima) komponen manajemen Sekolah/Madrasah Sehat, yaitu:<br><br><strong>1. Kebijakan</strong></p>\n<p style=\"text-align: justify;\">Untuk mendukung pelaksanaan Trias UKS/M secara konsisten, sistematis dan berkelanjutan, maka diperlukan payung kebijakan sebagai rujukan pelaksanaan. Kebijakan di tingkat pusat, sudah dijabarkan pada bagian dasar hukum buku ini. Sedangkan kebijakan di tingkat daerah diperlukan untuk mengatur lebih spesifik pelaksanaan Trias UKS/M dalam Sekolah/Madrasah Sehat termasuk penganggaran dan peran serta fungsi masing-masing pihak. <br><br><strong>2. Perencanaan dan Penganggaran</strong></p>\n<p style=\"text-align: justify;\">Perencanaan dan penganggaran merupakan indikator minimal dalam pelaksanaan Sekolah/Madrasah Sehat. Tim Pembina UKS/M bersama sekolah/madrasah harus merencanakan kegiatan Sekolah/Madrasah Sehat berdasarkan hasil asesmen yang telah dilakukan. Dokumen rencana kerja yang dikembangkan meliputi kegiatan prioritas, waktu pelaksanaan, sumber daya manusia, sasaran serta anggaran yang diperlukan. Pelaksanaan Trias UKS/M hendaknya terintegrasi dengan RKS (Rencana Kerja Sekolah) dengan sumber dana yang dapat berasal dari APBN, APBD dan sumber lain yang tidak mengikat. <br><br><strong>3. Koordinasi</strong></p>\n<p style=\"text-align: justify;\">Koordinasi dilakukan untuk sinkronisasi perencanaan, pelaksanaan, monitoring dan evaluasi Sekolah/Madrasah Sehat. Koordinasi Sekolah/Madrasah Sehat dilakukan mulai dari tingkat Pusat, Propinsi, Kota/Kabupaten, Kecamatan sampai dengan tingkat satuan pendidikan. Koordinasi rutin dilaksanakan minimal 3 bulan sekali dengan melibatkan Tim Pembina UKS/M dan pihak lain yang berkontribusi dalam pelaksanaan Sekolah/Madrasah Sehat.<br><br><strong>4. Peningkatan Kapasitas</strong></p>\n<p style=\"text-align: justify;\">Untuk memastikan Sekolah/Madrasah Sehat dilaksanakan dengan baik, maka peningkatan kapasitas tentang tata kelola Sekolah/Madrasah Sehat dan kegiatan-kegiatan terkait Trias UKS/M penting untuk dilaksanakan. Tata kelola UKS/M yang paripurna ditunjukan salah satunya adalah dengan terlatihnya semua guru tentang UKS/M. Oleh karena itu, orientasi Sekolah/Madrasah Sehat menjadi kegiatan yang sangat penting dilakukan setelah Tim Pembina UKS/M bersama sekolah/madrasah melakukan asesmen status kesehatan sekolah/madrasah dan peserta didik. Selain berbagai pelatihan, sekolah/madrasah juga perlu dibekali dengan berbagai buku panduan, KIE dan sarana prasarana lainnya agar siap melaksanakan kegiatan-kegiatan Sekolah/Madrasah Sehat. <br><br><strong>5. Monitoring dan Ev
+...[TRUNCATED]
+
+
+================================================================================
+PATH: /program/cek-kesehatan-gratis
+COMPONENT: Program/Show
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- program ---
+{
+ "judul": "Cek Kesehatan Gratis",
+ "konten": "<p>isi ckg dari paparan</p>",
+ "slug": "cek-kesehatan-gratis",
+ "tanggal_publis": null,
+ "images": null,
+ "last_sync": null,
+ "sorting": null,
+ "gambar_url": null,
+ "deskripsi": "isi ckg dari paparan"
+}
+
+
+================================================================================
+PATH: /program/pendidikan-kesehatan
+COMPONENT: Program/Show
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- program ---
+{
+ "judul": "Pendidikan Kesehatan",
+ "konten": "<h1>PENDIDIKAN KESEHATAN</h1>\n<p>&nbsp;</p>\n<p><img style=\"height: auto; width: auto;\" src=\"https://uks.kemendikdasmen.go.id//storage/manajemen_uks/files/images/bDlYAHoQF6uVG6mwxV4aSmmgvGiS3zRuCo6ppEXg.jpg\" alt=\"pendidikan kesehatan\"></p>\n<p>&nbsp;</p>\n<h2>A. Literasi Kesehatan</h2>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p><img style=\"height: auto; width: auto;\" src=\"https://uks.kemendikdasmen.go.id//storage/manajemen_uks/files/images/sPdwZZFXnHOuuEMZrY4oJK46WVfv2PqpbGt81F26.jpg\" alt=\"literasi_kesehatan\"></p>\n<p style=\"text-align: justify;\"><br><strong>Literasi merupakan</strong> kemampuan mengakses, memahami melalui berbagai aktivitas membaca, melihat, menyimak, menyampaikan dan mempraktikan. Gerakan Literasi Sekolah (GLS) merupakan kegiatan partisipatif yang melibatkan peserta didik, guru, warga sekolah/madrasah dan pemangku kepentingan lainnya. Literasi dapat menggunakan berbagai materi termasuk kesehatan. Dalam rangka meningkatkan penerapan Trias UKS/M, literasi yang diselenggarakan di sekolah/madrasah diantaranya meliputi literasi kesehatan, yang diberikan dengan cara interaktif, menarik dan partisipatif. Contoh literasi kesehatan seperti diskusi dengan guru kelas, pembuatan proyek terkait kesehatan (misal video dan poster kesehatan atau melalui permainan bertema kesehatan). Kegiatan ini dilaksanakan dengan tujuan untuk memastikan pesan kunci kesehatan dapat tersampaikan dengan baik kepada peserta didik. <br><br><strong>Waktu </strong></p>\n<p style=\"text-align: justify;\">Literasi kesehatan dilakukan secara rutin dalam jam literasi minimal 1 minggu 1 kali selama 15 menit. Akan tetapi, waktu pelaksanaan literasi kesehatan dapat ditambah dan disesuaikan dengan kebijakan masing-masing sekolah/madrasah.</p>\n<p><br><strong>Tempat </strong></p>\n<p>Masing-masing kelas atau luar kelas.&nbsp;</p>\n<p><br><strong>Pelaksana </strong></p>\n<p>Guru kelas, guru mata pelajaran pada sesi literasi sekolah/madrasah, peserta didik.&nbsp;</p>\n<p><br><strong>Sarana </strong></p>\n<p style=\"text-align: justify;\">Buku Rapor Kesehatanku seri Informasi Kesehatan, Buku Aksi Bergizi dan Buku/Media KIE kesehatan lainnya, permainan-permainan bertema kesehatan, aplikasi dan media KIE yang dikeluarkan Kementerian Kesehatan yang bisa diakses melalui www.kesga.kemkes.go.id, twitter/instagram/facebook ditkesga, Youtube Direktorat Kesehatan Keluarga, www.kemkes.go.id, dan www.promkes.kemkes.go.id, dan lain-lain.&nbsp;</p>\n<p style=\"text-align: justify;\"><br><strong>Langkah-Langkah </strong></p>\n<ol>\n<li>Sekolah/madrasah mengalokasikan waktu dan jam literasi kesehatan minimal 1 (satu) kali seminggu.</li>\n<li>Guru UKS/M membuat jadwal literasi kesehatan berdasarkan topik-topik dalam Buku Rapor Kesehatan Seri Informasi Kesehatan atau materi kesehatan lainnya yang dibutuhkan. Topik literasi kesehatan juga dapat ditambahkan dengan topik kesehatan keki
+...[TRUNCATED]
+
+
+================================================================================
+PATH: /program/pelayanan-kesehatan
+COMPONENT: Program/Show
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- program ---
+{
+ "judul": "Pelayanan Kesehatan",
+ "konten": "<h1>PELAYANAN KESEHATAN<br></h1>\n<img src=\"https://uks.kemendikdasmen.go.id//storage/manajemen_uks/files/images/DAYvdbZWkA727843MKByQwKAormtyiOcD5ihF0ZX.jpg\" alt=\"pelayanan kesehatan\" style=\"height: auto;width: auto\"/>\n<h2><br>A. Penjaringan Kesehatan<br></h2>\n<img src=\"https://uks.kemendikdasmen.go.id//storage/manajemen_uks/files/images/ZLoYT64LWaNwZpG7f4hDsp696DYrqMDqp63efXbQ.jpg\" alt=\"penjaringan kesehatan\" style=\"height: auto;width: auto\"/>\n<p style=\"text-align:justify;\"><br><strong>Penjaringan kesehatan</strong> merupakan rangkaian pemeriksaan kesehatan (skrining) yang dilakukan pada seluruh peserta didik baru yaitu kelas 1 (satu) SD/MI,7 (tujuh) SMP/MTs dan 10 (sepuluh) SMA/SMK/MA (entry level), sedangkan pemeriksaan berkala adalah rangkaian pemeriksaan kesehatan (skrining) yang dilakukan pada seluruh peserta didik kelas 2-6 SD/MI, 8-9 SMP/ MTs dan 11-12 SMA/SMK/MA. Pada masa pandemi, skrining sederhana dapat dilakukan langsung oleh peserta didik didampingi orangtua menggunakan formulir pemantauan kesehatan mandiri anak usia sekolah dan remaja ada masa pandemi COVID-19. Kegiatan Penjaringan kesehatan dan pemeriksaan berkala dilakukan melalui:  <br><br></p>\n<ol>\n<li style=\"text-align:justify;\">Pemeriksaan kesehatan menggunakan kuesioner. Kuesioner berisi pertanyaan mengenai riwayat kesehatan keluarga, diri, imunisasi dan perilaku terkait kesehatan lainnya. Kuesioner diisi oleh masing-masing peserta didik. Bagi peserta didik kelas 1-3 SD/MI atau peserta didik di SLB pengisian kuesioner ini dapat dibantu dengan orang tua/wali/guru.&nbsp;&nbsp;</li>\n<li style=\"text-align:justify;\">Pemeriksaan kesehatan secara fisik oleh sekolah/madrasah (guru dan kader kesehatan sekolah) dan petugas Puskesmas Pemeriksaan fisik yang dilakukan oleh sekolah/madrasah antara lain: pengukuran tinggi badan, berat badan, tekanan darah (menggunakan pengukur tekanan darah digital bila tersedia) pemeriksaan ketajaman penglihatan dan pemeriksaan kebersihan diri (kuku, rambut) serta pemeriksaan kebugaran jasmani. Sedangkan pemeriksaan fisik yang dilakukan oleh Puskesmas meliputi pemeriksaan klinis yang harus dilakukan tenaga kesehatan seperti pemeriksaan gigi dan mulut, pemeriksaan telinga, denyut jantung dan pernapasan dan lain-lain.  <br></li>\n</ol>\n<p><br><span style=\"font-family: Verdana;\"><strong>Jenis Pemeriksaan Kesehatan</strong></span><br></p>\n<p style=\"text-align:left;\"></p>\n<img src=\"https://uks.kemendikdasmen.go.id//storage/manajemen_uks/files/images/j3pUcGW2v0fUw0fX8XnSIHQtmL4hyyMqG8AUqivC.jpg\" alt=\"jenis_pemeriksaan_kesehatan\" style=\"height: auto;width: auto\"/>\n<p></p>\n<p style=\"text-align:justify;\"><span style=\"font-family: Verdana;\"><strong>Waktu</strong></span><br><br>Penjaringan kesehatan dan pemeriksaan berkala dilaksanakan minimal 1 (satu) kali dalam setahun dimulai pada awal tahun ajaran baru.<br>Sekolah/madrasah membagikan kuesioner dan mengumpulkan kuesioner ya
+...[TRUNCATED]
+
+
+================================================================================
+PATH: /program/pembinaan-lingkungan-sekolah-sehat
+COMPONENT: Program/Show
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- program ---
+{
+ "judul": "Pembinaan Lingkungan Sekolah Sehat",
+ "konten": "<h1>PEMBINAAN LINGKUNGAN SEKOLAH SEHAT</h1>\n<h2>A. Sanitasi Sekolah</h2>\n<p></p>\n<img src=\"https://uks.kemendikdasmen.go.id//storage/manajemen_uks/files/images/0XKuJDvcRpyHECv6z4tkLSy6N8h4kE4qtD0sIkmU.jpg\" alt=\"sanitasi sekolah\" style=\"height: auto;width: auto\"/>\n<p style=\"text-align:justify;\"><strong>Sanitasi merupakan </strong>pengendalian semua faktor lingkungan fisik manusia yang dapat menimbulkan akibat buruk terhadap kehidupan manusia, baik fisik maupun mental (WHO). Sarana prasarana sanitasi sekolah/madrasah yang diperlukan antara lain air bersih yang cukup, jamban sehat, sarana cuci tangan dengan sabun air mengalir, pembuangan limbah cair dan tempat sampah. Sanitasi berkaitan erat dengan pelaksanaan pembiasaan hidup bersih.&nbsp;</p>\n<p><br><strong>Kegiatan  </strong></p>\n<ol>\n<li>Pelaksanaan inspeksi kesehatan lingkungan sekolah/madrasah oleh Puksesmas dan pihak sekolah/madrasah.&nbsp;</li>\n<li>Penilaian mandiri kesehatan lingkungan dilakukan setiap bulan oleh sekolah/madrasah.&nbsp;</li>\n<li>Pembersihan dan desinfeksi ruang kelas, ruang guru, laboratorium, kantin dan semua ruangan yang terdapat di sekolah/madrasah setiap hari.&nbsp;</li>\n<li>Pembersihan dan desinfeksi sarana yang sering tersentuh dengan tangan seperti pegangan pintu, tombol lampu, meja/kursi setiap hari.</li>\n<li>Pembersihan sarana luar kelas seperti lapangan.&nbsp;</li>\n<li>Pembuangan sampah ke tempat sampah tertutup dan terpilah setiap hari.&nbsp;</li>\n<li>Pengumpulan sampah dari berbagai lokasi tempat sampah di sekolah/madrasah ke Tempat Pembuangan Sampah (TPS) sementara setiap hari atau kurang dari setiap hari apabila sampah sudah mencapai ¾ dari isi.&nbsp;</li>\n<li>Kerja bakti.&nbsp;</li>\n<li>Pelaksanaan 3R (reuse, reduce, recycle). <br>a. <strong><em>Reuse</em></strong> : Menggunakan kembali.<br>b. <strong><em>Reduce</em></strong> : Berupaya mengurangi sampah.<br>c. <strong><em>Recycle</em></strong> : Mendaur ulang.&nbsp;&nbsp;</li>\n</ol>\n<p><br><strong>Waktu dan Tempat </strong></p>\n<ol>\n<li>Pembersihan dan desinfeksi dilakukan minimal 2 kali/hari.&nbsp;</li>\n<li>Pembuangan sampah ke tempat sampah tertutup dan terpilah serta ke TPS dilakukan setiap<br>hari.&nbsp;</li>\n<li>Pelaksanaan reuse atau recycle dilaksanakan 1 kali/minggu atau sesuai kebutuhan.&nbsp;</li>\n<li>Dilaksanakan di seluruh lingkungan sekolah/madrasah.&nbsp;</li>\n</ol>\n<p><br><strong>Pelaksana </strong></p>\n<p>Kepala sekolah/madrasah, guru dan wali kelas, peserta didik, orang tua/wali, masyarakat sekolah/madrasah lainnya dan masyarakat sekitar sekolah/madrasah termasuk sanitarian di Puskesmas. Sarana&nbsp;</p>\n<ol>\n<li>Surat Edaran/Peraturan penerapan dari sekolah/madrasah.&nbsp;</li>\n<li>Tempat sampah tertutup dan terpilah di setiap kelas. Tiap tempat sampah dilapisi plastik.&nbsp;</li>\n<li>Alat-alat kebersihan: sapu, plastik.&nbsp;</li>\n<li>Cairan pembersih/desinfektan.&nbsp;</li>\n<li>Tempat pemb
+...[TRUNCATED]
+
+
+================================================================================
+PATH: /sekolah-sehat/gerakan-sekolah-sehat
+COMPONENT: Program/Show
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- program ---
+{
+ "judul": "Gerakan Sekolah Sehat",
+ "konten": "<p>&nbsp;</p>\n<div class=\"wysiwyg-container\" style=\"background-color: #bfedd2; border-radius: 0.5rem;\">\n<div class=\"wysiwyg-col\" style=\"width: 70%;\">\n<h2 class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal; tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;\"><strong><span style=\"font-size: 20.0pt; font-family: 'Fredoka Medium'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none;\">&nbsp; &nbsp;</span></strong><span style=\"font-size: 20.0pt; font-family: 'Fredoka Medium'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-font-kerning: 0pt; mso-ligatures: none;\"> &nbsp; </span><span style=\"font-size: 24pt; font-family: Fredoka, sans-serif; color: black;\">Gerakan Sekolah Sehat</span></h2>\n<p class=\"elementor-heading-title elementor-size-default\" style=\"padding-left: 40px; text-align: justify;\"><span style=\"font-size: 12pt; font-family: Fredoka, sans-serif;\">Merupakan segala upaya yang dilakukan secara bersama-sama dan terus menerus oleh semua pihak mulai dari pemerintah pusat sampai ke pemerintah daerah, para mitra, satuan pendidikan, masyarakat pemangku kepentingan lainnya tentang pentingnya penerapan Sekolah Sehat dengan berfokus pada Sehat Bergizi, Sehat Fisik, Sehat Imunisasi, Sehat Jiwa dan Sehat Lingkungan di satuan pendidikan.</span></p>\n</div>\n<div class=\"wysiwyg-col\" style=\"width: 30%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://kss-uks.mardawa.id/wp-content/uploads/2023/05/sehat-fisik-fix-1024x576.webp\" width=\"328\" height=\"184\"></div>\n</div>\n<p>&nbsp;</p>\n<h2 style=\"text-align: center;\"><span style=\"font-size: 18pt; font-family: Fredoka, sans-serif;\"><span style=\"color: black;\">Fokus Gerakan Sekolah Sehat</span></span></h2>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal; text-align: center;\">&nbsp;</p>\n<div class=\"wysiwyg-container\" style=\"background-color: transparent; border-radius: 0;\">\n<div class=\"wysiwyg-col\" style=\"width: 30%;\"><span style=\"font-family: helvetica, arial, sans-serif; color: rgb(0, 0, 0);\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://kss-uks.mardawa.id/wp-content/uploads/2023/05/ilustrasi-sekolahsehat-300x300.webp\" width=\"243\" height=\"243\"></span></div>\n<div class=\"wysiwyg-col\" style=\"width: 5%;\"><span style=\"color: rgb(255, 255, 255);\">Column 2</span></div>\n<div class=\"wysiwyg-col\" style=\"width: 30%;\"><span style=\"font-family: helvetica, arial, sans-serif; color: rgb(0, 0, 0); font-size: 14pt;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://kss-uks.mardawa.id/wp-content/uploads/2023/05/ilustrasi-sekolahsehat-2-300x300.webp\" width=\"243\" height=\"243\"></span></div>\n<div class=\"wysiwyg-col\"
+...[TRUNCATED]
+
+
+================================================================================
+PATH: /sekolah-sehat/sehat-bergizi
+COMPONENT: Program/Show
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- program ---
+{
+ "judul": "Sehat Bergizi",
+ "konten": "<div class=\"wysiwyg-container\" style=\"background-color: #ffb527; border-radius: 0.5rem;\">\n<div class=\"wysiwyg-col\" style=\"width: 70%;\">\n<h2 style=\"padding-left: 40px;\"><span style=\"font-size: 24pt; font-family: Fredoka, sans-serif; color: rgb(255, 255, 255);\"><strong>Sehat Bergizi</strong></span></h2>\n<p style=\"padding-left: 40px; text-align: left;\"><span style=\"font-family: Fredoka, sans-serif; font-size: 12pt; color: rgb(255, 255, 255);\"><span class=\"WdYUQQ\">Sehat Bergizi</span><span class=\"WdYUQQ\"> bertujuan untuk meningkatkan derajat </span><span class=\"WdYUQQ\">kesehatan peserta didik melalui penerapan pola makan yang tepat dan konsumsi makanan bergizi.</span></span></p>\n<p style=\"padding-left: 40px; text-align: left;\">&nbsp;</p>\n<p style=\"padding-left: 40px;\"><span style=\"font-size: 12pt; color: rgb(255, 255, 255);\">&nbsp;<strong> <img title=\"Youtube_logo.png\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAG7CAYAAABTmCTQAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAksUlEQVR42u3debSkZX0n8O97e6H3ZodGkAZxRdyQBqJsgjFqk2VO2snEANnUyZkAkog6JyrMCY7tiCPoMYqZOIEjkwlDJpPQLomAssoii2zNbiP73ju90TV/vO9NX9ruvnXvreWtqs/nnDpVfW/dqurf+3L59vP8nudNAAAYKIUSAK3USGYlmbKdb09OMnsHPz4nyaTtfG9qkpkt/KjLy4/bViuTvLzV19Yk2bDV19YVyUvOHkAAhP4PStOTTNsqFA0lmTviaTuP+O90ZDgaGbJmJNmpejwt5etuHZgmVT8//N/9zmN8j5FGvhbts6EKiyO9XIXKrb3YZPhcnWTjiD+vSLK5CsLLq69trJ6XJOuyJZiO/Nkx/VzxyvcEBECoVSCbXYWmuSOC1Jzqa3OyJbDNrULb3K3C1HCQmlsFueEwNRykZlavNTKwwSAZLTgOh8zh8Lq8ev7yEeF3+Pnrk6ytgua6bBlZXZVk0/B7FdsOxyAAKgE9GNSmVyFqbsrQNrO67VyFrRnV/c4jvje7ev7wz44MeztVXwP603jC4/rqucur+zUj/rymuq1KsqIoQyoIgLCD8DY327/NSbLLDr43HOKGVBKokZeqQLiyug2HxZF/XlMFy1Uj/rytcGnKHAGQ2oa4KUl2TbJbdb+t224j7odD3S6qBzCqDSmnrkfeXtjG137p+xYTIQAylkA3M8le1W2P6rb3iMd7JNl9RLibrWoAtbRutJC4na8/W/zyoiEEQHow1M1Ism8V5PYdEfD2qsLcHknmVffTVQxg4D1b3Z5L8nR1e6762lMjvv+0xTUCIJ0PdlOrADcvyT47uN/b8QWgTdanHDl8IsmTW90/XD1+vNiy2hsBkFEC3k5JXpXkwOo2HOqG/zw/FkEA0BvWjQiFW9+eLMrvIQAORMArkrw6yeuSvDbJ/lWoG77fS5UAGBArqjB4X5KlSe6tHt9vQYsA2KtBb5cq5L2+uh9503MHANu3OckjVRi8PclPk9xcJL9QGgGwLkFvTpK3jri9oQp9e6gOALTUM0lurgLhj5NcW5SbdyMAtjXs7ZfkbdXtrdX9geoIAF3xYpLvJ7ksyQ8sOhEAWxX43pDk15O8N8k7Uu6BBwDUz6YkVydZkuSfi+QhJREAmw18Q0neVYW+30i5SAMA6D33JPnHJBcWyQPKIQBuK/jtm+TDST6S5DUqAgB95ZYk30ryd0V5PWYBcIBD35Qki5L8UZJjY289AOh3a5L8XZIvF+WWMwLgAAW/2Un+MMmfp1zUAQAMXBzId5OcXySXC4D9faT3SfLxJB9LuXULAMANSc4qkn8VAPsr+M1OOdr3ydiAGQDYtiuSfKoo+wUFwB4OftOS/GmS/xzbtwAATcWH/H2SvyjKS9QJgD129H4ryXkpr7kLADAW65Kck+RLRbJBAKx/8NsnyflJftu5CwBM0ANJ/qQop4f7Sl9sfdJIJjeSP0t50WjhDwBohdcm+WEj+Va1pqBv9PwIYCPZP8l3krzbeQoAtMmyJB8ukuv74S/T0yOAjXIj59uEPwCgzeYnuaqRnN1IJvX6X6YnRwCrYdivJznJ+QgAdNgVSf5DkTwrAHYu/L0myT8neZPzDwDokseS/Gav7hvYU1PAjeToJD8R/gCALts35ZTwvxMA2xv+Tk055LqHcw4AqIGZSS5tJJ/ptQ9e+yngRvkZz08ZAAEA6ujrSU4rks0C4MTD36Qk30ryh84rAKDm/leS3y+SjQLg+MPf1CQXx8bOAEDvWJJkUVFeTk4AHGP4m5Hk/yV5r/MIAOgx/5Lk1+t8HeHaLQJpJFOSXCL8AQA96n1J/r6RTBYAmwt/k5JclOSDzh0AoIf9ZpK/adR0x5
+...[TRUNCATED]
+
+
+================================================================================
+PATH: /sekolah-sehat/sehat-fisik
+COMPONENT: Program/Show
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- program ---
+{
+ "judul": "Sehat Fisik",
+ "konten": "<div class=\"wysiwyg-container\" style=\"background-color: #e53c3b; border-radius: 0.5rem;\">\n<div class=\"wysiwyg-col\" style=\"width: 70%;\">\n<h1 style=\"padding-left: 40px;\"><span style=\"font-size: 24pt; font-family: Fredoka, sans-serif; color: rgb(255, 255, 255);\"><strong>Sehat Fisik&nbsp;</strong></span></h1>\n<p style=\"padding-left: 40px;\"><span style=\"font-size: 12pt; font-family: Fredoka, sans-serif; color: rgb(255, 255, 255);\">Dalam rangka mengurangi resiko obesitas dan meningkatkan kesehatan peserta didik, pembiasaan aktivitas fisik perlu dilakukan</span></p>\n<p>&nbsp;</p>\n<p style=\"padding-left: 40px;\"><span style=\"font-size: 12pt;\"><strong><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAWCAIAAABYAbuYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAASdEVYdFNvZnR3YXJlAEdyZWVuc2hvdF5VCAUAAAG4SURBVEhLtZW/T8JAFMf9v8Df1Gg0YRQncPHH4I+JRBclLBoCSQcRHSAh0U3RyMDOTCBhImHRpKVQCi1QDW2v+IBXJSH8qNRv3vTu7vNyd997N8fYbf1gHasVj7t2eSGFb6T7O3NxG675fLCcpagfIKLZjfX69ZVSKHRUtfM3aRosF4PB0tbmAHppUaRpUq/jpBlERFGKROAAEM3v75Eqj4MziwhC9fQE0a1EAtMWSU4mEa0xDOYsksayiO4oCuaGpMtyO5/XSqUOIZiaRopioHUdU0PSyhw4hz8+kl9f9FYLsxOl6wZ6tGBrgtfLLMyDpaDAVzoNJsOxsZoa3X8FvQLC+Vk7l5tYwCR6oIAYCnUvf/RJwkzz6F5Udj3tbNZS9MpyecfVen7SGw2cMUIm0Czl4FzbzccHIkk4NlYGeoz5OK7m95fd7kY0Svipm8Gv+UZ3O/ByO5NRP96n9BxKVRHdfWyWCvaKaDn5hjmL9JlKIfofmyp8BdC/oYvj4AwC/8CFg50MtN3WfWA0rRaLs3xgsBz+1ZLT2WciGoJdo/jDA+hzULYZj5uKRixWDwRgOfyxCLTbvgF1sc0KvTV3sAAAAABJRU5ErkJggg==\" width=\"20\" height=\"15\"><span style=\"color: rgb(255, 255, 255); font-family: Fredoka, sans-serif; font-size: 11pt;\"> <a style=\"color: rgb(255, 255, 255);\" href=\"https://www.youtube.com/watch?v=gl56oxJOWVo\">Ayo Bergerak, Sehatkan Badan</a></span></strong></span></p>\n</div>\n<div class=\"wysiwyg-col\" style=\"width: 30%;\"><img style=\"height: 187px; width: 243px; display: block; margin-left: auto; margin-right: auto;\" title=\"vektor-anak-untuk-hari-sumpah-pemuda-05-2-oke-1536x1179.png\" src=\"https://uks.kemendikdasmen.go.id//storage/manajemen_uks/files/images/ogmSj9bi3wnL6fmFADWr8dEPD5IsORlMvrau4ori.png\" alt=\"senam kesegaran jasmani\"></div>\n</div>\n<p>&nbsp;</p>\n<div class=\"wysiwyg-container\" style=\"background-color: transparent; border-radius: 0;\">\n<div class=\"wysiwyg-col\" style=\"width: 70%;\">\n<h3><span style=\"font-family: Fredoka, sans-serif; font-size: 18pt; color: rgb(0, 0, 0);\">Kegiatan Sehat Fisik terdiri dari:</span></h3>\n<p><span style=\"font-size: 12pt; font-family: Fredoka, sans-serif;\"><span class=\"elementor-icon-list-icon\">&nbsp;<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAADsQAAA7EB9YPtSQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAA63SURBVHic7Z1rdFVlesd/zz47AQIYEOUmjDLW2hnR1mlhVEDj6AAh5Aon7bIyU21nbHUt1uqq1UFBAgjOzLIf2umatbRVpzNMVw2ThOSQcBmRIBDBWS4vXLR1KjrcEzKgQAjJOfvph5OTQsjlXPblJGf/PsE+e7/PP+v/P+9+z768rzDUUKSgetE0FevrojpNhZsEpirWeEHGAeOA
+...[TRUNCATED]
+
+
+================================================================================
+PATH: /sekolah-sehat/sehat-imunisasi
+COMPONENT: Program/Show
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- program ---
+{
+ "judul": "Sehat imunisasi",
+ "konten": "<div class=\"wysiwyg-container\" style=\"background-color: #f1f9fa; border-radius: 0.5rem;\">\n<div class=\"wysiwyg-col\" style=\"width: 70%;\">\n<h3 style=\"padding-left: 40px;\"><span style=\"font-size: 24pt; font-family: Fredoka, sans-serif; color: rgb(0, 0, 0);\"><strong><span style=\"font-size: 24pt;\">Sehat Imunisasi</span></strong></span></h3>\n<div class=\"elementor-element elementor-element-7f332820 elementor-widget elementor-widget-text-editor animated fadeInLeft\" data-id=\"7f332820\" data-element_type=\"widget\" data-settings=\"{&quot;_animation&quot;:&quot;fadeInLeft&quot;,&quot;_animation_delay&quot;:150}\" data-widget_type=\"text-editor.default\">\n<div class=\"elementor-widget-container\">\n<p style=\"padding-left: 40px;\"><span style=\"font-size: 12pt; color: rgb(0, 0, 0); font-family: Fredoka, sans-serif;\"><span class=\"WdYUQQ\">Sehat Imunisasi</span><span class=\"WdYUQQ\"> bertujuan untuk meningkatkan capaian imunisasi peserta didik untuk mendapatkan imunisasi&nbsp;</span><span class=\"WdYUQQ\">dasar lengkap.</span></span></p>\n<p>&nbsp;</p>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-46dad29 elementor-widget elementor-widget-button animated fadeInUp\" data-id=\"46dad29\" data-element_type=\"widget\" data-settings=\"{&quot;_animation&quot;:&quot;fadeInUp&quot;}\" data-widget_type=\"button.default\">\n<div class=\"elementor-widget-container\">\n<div class=\"elementor-button-wrapper\" style=\"padding-left: 40px;\"><span style=\"color: rgb(0, 0, 0);\">&nbsp;<img title=\"Youtube_logo.png\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAG7CAYAAABTmCTQAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAksUlEQVR42u3debSkZX0n8O97e6H3ZodGkAZxRdyQBqJsgjFqk2VO2snEANnUyZkAkog6JyrMCY7tiCPoMYqZOIEjkwlDJpPQLomAssoii2zNbiP73ju90TV/vO9NX9ruvnXvreWtqs/nnDpVfW/dqurf+3L59vP8nudNAAAYKIUSAK3USGYlmbKdb09OMnsHPz4nyaTtfG9qkpkt/KjLy4/bViuTvLzV19Yk2bDV19YVyUvOHkAAhP4PStOTTNsqFA0lmTviaTuP+O90ZDgaGbJmJNmpejwt5etuHZgmVT8//N/9zmN8j5FGvhbts6EKiyO9XIXKrb3YZPhcnWTjiD+vSLK5CsLLq69trJ6XJOuyJZiO/Nkx/VzxyvcEBECoVSCbXYWmuSOC1Jzqa3OyJbDNrULb3K3C1HCQmlsFueEwNRykZlavNTKwwSAZLTgOh8zh8Lq8ev7yEeF3+Pnrk6ytgua6bBlZXZVk0/B7FdsOxyAAKgE9GNSmVyFqbsrQNrO67VyFrRnV/c4jvje7ev7wz44MeztVXwP603jC4/rqucur+zUj/rymuq1KsqIoQyoIgLCD8DY327/NSbLLDr43HOKGVBKokZeqQLiyug2HxZF/XlMFy1Uj/rytcGnKHAGQ2oa4KUl2TbJbdb+t224j7odD3S6qBzCqDSmnrkfeXtjG137p+xYTIQAylkA3M8le1W2P6rb3iMd7JNl9RLibrWoAtbRutJC4na8/W/zyoiEEQHow1M1Ism8V5PYdEfD2qsLcHknmVffTVQxg4D1b3Z5L8nR1e6762lMjvv+0xTUCIJ0PdlOrADcvyT47uN/b8QWgTdanHDl8IsmTW90/XD1+vNiy2hsBkFEC3k5JXpXkwOo2HOqG/zw/FkEA0BvWjQiFW9+eLMrvIQAORMArkrw6yeuSvDbJ/lWoG77fS5UAGBArqjB4X5KlSe6tHt9vQYsA2KtBb5cq5L2+uh9503MHANu3OckjVRi8PclPk9xcJL9QGgGwLkFvTpK3jri9oQp9e6gOALTUM0lurgLhj5NcW5SbdyMAtjXs7ZfkbdXtrdX9geoIAF3xYpLvJ7ksyQ8sOhEAWxX43pDk15O8N8k7Uu6BBwDUz6YkVydZkuSfi+QhJREAmw18Q0neVYW+30i5SAMA6D33JPnHJBcWyQPKIQBuK/jtm+TDST6S5DUqAgB95ZYk30ryd0V5PWYBcIBD
+...[TRUNCATED]
+
+
+================================================================================
+PATH: /sekolah-sehat/sehat-jiwa
+COMPONENT: Program/Show
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- program ---
+{
+ "judul": "Sehat Jiwa",
+ "konten": "<div class=\"wysiwyg-container\" style=\"background-color: #00923e; border-radius: 0.5rem;\">\n<div class=\"wysiwyg-col\" style=\"width: 70%;\">\n<h1 style=\"padding-left: 40px;\"><span style=\"font-size: 24pt; font-family: Fredoka, sans-serif; color: rgb(255, 255, 255);\"><strong>Sehat Jiwa&nbsp;</strong></span></h1>\n<p style=\"text-align: left; padding-left: 40px;\"><span style=\"font-size: 12pt; color: rgb(255, 255, 255); font-family: Fredoka, sans-serif;\">Sehat Jiwa bertujuan untuk meningkatkan perkembangan kesehatan &nbsp;fisik, mental, spiritual, dan sosial sehingga mampu menyadari kemampuan sendiri, mengatasi tekanan, bekerja/belajar secara optimal, dan memberikan kontribusi untuk komunitasnya.</span></p>\n<p>&nbsp;</p>\n<p style=\"padding-left: 40px;\"><span style=\"color: rgb(255, 255, 255);\"><strong><img title=\"Youtube_logo.png\" src=\"data:image/png;base64,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
+...[TRUNCATED]
+
+
+================================================================================
+PATH: /sekolah-sehat/sehat-lingkungan
+COMPONENT: Program/Show
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- program ---
+{
+ "judul": "Sehat Lingkungan",
+ "konten": "<div class=\"wysiwyg-container\" style=\"background-color: #5fb7d0; border-radius: 0.5rem;\">\n<div class=\"wysiwyg-col\" style=\"width: 70%;\">\n<h3 style=\"padding-left: 40px;\"><span style=\"font-size: 24pt; font-family: Fredoka, sans-serif; color: rgb(255, 255, 255);\"><strong>Sehat Lingkungan</strong></span></h3>\n<p style=\"text-align: left; padding-left: 40px;\"><span style=\"font-size: 12pt; font-family: Fredoka, sans-serif;\"><span style=\"color: rgb(255, 255, 255);\">Lingkungan sekolah sehat dapat mendukung tumbuh kembang peserta didik secara optimal&nbsp; </span><span style=\"color: rgb(255, 255, 255);\">serta membentuk perilaku hidup bersih dan sehat serta terhindar dari pengaruh negatif.&nbsp;</span></span></p>\n<p>&nbsp;</p>\n<p style=\"padding-left: 40px;\"><span style=\"color: rgb(251, 251, 251);\"><strong><img title=\"Youtube_logo.png\" src=\"data:image/png;base64,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
+...[TRUNCATED]
+
+
+================================================================================
+PATH: /sekolah-sehat/bahan-advokasi
+COMPONENT: Program/Show
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- program ---
+{
+ "judul": "Bahan Advokasi",
+ "konten": "<p><span style=\"font-size: 16px; font-family: Tahoma;\"><strong>Unduh Produk Hukum Kampanye Sekolah Sehat</strong></span></p>\n<ol>\n<li style=\"color: rgb(31, 0, 255);\"><a href=\"https://uks.kemendikdasmen.go.id/storage/manajemen_uks/files/produk_hukum/2BmyYNrnxfnHenNHV3WzO7rtXh54k4IJ3gL09BBi.pdf\" target=\"_self\"><span style=\"color: rgb(52,71,103); background-color: rgb(255,255,255); font-size: 14px; font-family: Tahoma;\"><span style=\"color: rgb(35, 111, 161);\"><span style=\"color: rgb(31, 0, 255);\">SKB 4 Menteri Nomor 83 Tahun 2022 Pelaksanaan Imunisasi dan Aksi Bergizi</span></span></span></a></li>\n<li style=\"color: rgb(31, 0, 255);\"><span style=\"color: rgb(31, 0, 255);\"><a style=\"color: rgb(31, 0, 255);\" href=\"https://is3.cloudhost.id/storagedirectus1/manajemen_uks/files/produk_hukum/XWikLOLBzlv0IYkYqjRLePfATtwh9Y9gXoyTrgA4.pdf\" target=\"_self\"><span style=\"background-color: rgb(255, 255, 255); font-size: 14px; font-family: Tahoma;\">Surat Edaran Mendikbudristek Nomor 7 Tahun 2022 Tentang Diskresi Pelaksanaan Keputusan Bersama 4 Menteri Tentang Panduan Penyelenggaraan Pembelajaran di Masa Pandemi Covid-19 </span></a>&nbsp;</span></li>\n<li style=\"color: rgb(31, 0, 255);\"><span style=\"color: rgb(31, 0, 255);\"><a style=\"color: rgb(31, 0, 255);\" href=\"https://is3.cloudhost.id/storagedirectus1/manajemen_uks/files/produk_hukum/5QoI8pk8youdhr8uRCyQk5SLEL7rQ23QRgP3fzEW.pdf\" target=\"_self\"><span style=\"background-color: rgb(255, 255, 255); font-size: 14px; font-family: Tahoma;\">Permenko Bidang PMK Nomor 1 Tahun 2022 tentang Rencana Aksi Nasional Peningkatan Kesejahteraan Usia Anak Usia Sekolah dan Remaja</span></a>&nbsp;</span></li>\n<li style=\"color: rgb(31, 0, 255);\"><span style=\"color: rgb(31, 0, 255);\"><a style=\"color: rgb(31, 0, 255);\" href=\"https://is3.cloudhost.id/storagedirectus1/manajemen_uks/files/produk_hukum/5QoI8pk8youdhr8uRCyQk5SLEL7rQ23QRgP3fzEW.pdf\" target=\"_self\"><span style=\"background-color: rgb(255, 255, 255); font-size: 14px; font-family: Tahoma;\">Peraturan Menteri Kesehatan No 2269/MENKES/PER/XI/2011 tentang Pedoman Pembinaan Perilaku Hidup Bersih dan Sehat </span></a>&nbsp;</span></li>\n<li style=\"color: rgb(31, 0, 255);\"><span style=\"color: rgb(31, 0, 255);\"><a style=\"color: rgb(31, 0, 255);\" href=\"https://is3.cloudhost.id/storagedirectus1/manajemen_uks/files/produk_hukum/9i2fSxvbbAEeYpKt9vvvnrIJ9LuthFPMW4F1uXXB.pdf\" target=\"_self\"><span style=\"background-color: rgb(255, 255, 255); font-size: 14px; font-family: Tahoma;\">Peraturan Menteri Pendidikan Nasional RI No. 57 tahun 2009 tentang Pemberian Bantuan Pengembangan Sekolah Sehat </span></a>&nbsp;</span></li>\n<li style=\"color: rgb(31, 0, 255);\"><span style=\"color: rgb(31, 0, 255);\"><a style=\"color: rgb(31, 0, 255);\" href=\"https://is3.cloudhost.id/storagedirectus1/manajemen_uks/files/produk_hukum/3hxH6GkqVfOGOBZu4PfedzoFtHV1ExWI45pXHcrG.pdf\" target=\"_self\"><span style=\"
+...[TRUNCATED]
+
+
+================================================================================
+PATH: /mitra/panduan-kemitraan
+COMPONENT: Program/Show
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- mitra ---
+{
+ "title": "Panduan Kemitraan",
+ "categori": null,
+ "content": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-7496aaa elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"7496aaa\" data-element_type=\"section\">\n<div class=\"elementor-container elementor-column-gap-default\">\n<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9280559\" data-id=\"9280559\" data-element_type=\"column\">\n<div class=\"elementor-widget-wrap elementor-element-populated\">\n<div class=\"elementor-element elementor-element-b18ebe9 elementor-widget elementor-widget-heading animated fadeInUp\" data-id=\"b18ebe9\" data-element_type=\"widget\" data-settings=\"{&quot;_animation&quot;:&quot;fadeInUp&quot;}\" data-widget_type=\"heading.default\">\n<div class=\"elementor-widget-container\">\n<h2 class=\"elementor-heading-title elementor-size-default\"><span style=\"color: rgb(0, 0, 0); font-family: Fredoka, sans-serif; font-size: 18pt;\">Bentuk Kerja Sama</span></h2>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-c3bf862 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list\" data-id=\"c3bf862\" data-element_type=\"widget\" data-widget_type=\"icon-list.default\">\n<div class=\"elementor-widget-container\">\n<ul class=\"elementor-icon-list-items\">\n<li class=\"elementor-icon-list-item\" style=\"font-family: Fredoka, sans-serif;\"><span class=\"elementor-icon-list-text\" style=\"font-family: Fredoka, sans-serif;\">Pembangunan sarana/fasilitas terkait aktivitas Sekolah Sehat</span></li>\n<li class=\"elementor-icon-list-item\" style=\"font-family: Fredoka, sans-serif;\"><span class=\"elementor-icon-list-text\" style=\"font-family: Fredoka, sans-serif;\">Penyediaan prasarana/perlengkapan/peralatan penunjang beragam aktivitas Sekolah Sehat</span></li>\n<li class=\"elementor-icon-list-item\" style=\"font-family: Fredoka, sans-serif;\"><span class=\"elementor-icon-list-text\" style=\"font-family: Fredoka, sans-serif;\">Penyelenggaraan kegiatan peningkatan kapasitas SDM/kegiatan edukatif bagi peserta didik, pendidik, guru, tenaga kependidikan, dan orang tua di satuan pendidikan (sekolah)</span></li>\n<li class=\"elementor-icon-list-item\" style=\"font-family: Fredoka, sans-serif;\"><span class=\"elementor-icon-list-text\" style=\"font-family: Fredoka, sans-serif;\">Dukungan terhadap pelaksanaan percepatan dan perluasan program imunisasi bagi peserta didik pada satuan pendidikan</span></li>\n<li class=\"elementor-icon-list-item\" style=\"font-family: Fredoka, sans-serif;\"><span class=\"elementor-icon-list-text\" style=\"font-family: Fredoka, sans-serif;\">Penyediaan narasumber atau ahli dalam kegiatan peningkatan kapasitas SDM/kegiatan edukatif bagi peserta didik, pendidik, guru, tenaga kependidikan, dan orang tua di satuan pendidikan (sekolah)</span><
+...[TRUNCATED]
+
+--- mitraLainnya ---
+[
+ {
+  "id": "0b317817-30f9-45bd-a5a9-536d55975621",
+  "title": "Dukungan Mitra",
+  "slug": "dukungan-mitra",
+  "nama": "Dukungan Mitra",
+  "deskripsi": "Bentuk Dukungan Mitra\n\n\n\nNo\nNama Mitra\nPeriode\nBentuk Dukungan\n\n\n1\nUNICEF - Section Nutrition\nMaret s.d. November 2025\n\n&nbsp; &nbsp;Bentuk Kolaborasi: &nbsp;\n\nPanduan Implementasi Program Makan Bergizi Gratis di Satuan Pendidikan\nModul Pelatihan Implementasi Program Makan Bergizi Gratis di Satuan P",
+  "logo_url": null,
+  "published_at": "2024-04-03 11:03:22.673",
+  "kategori": null,
+  "website_url": null
+ },
+ {
+  "id": "0d922693-dc3c-4c2e-be27-4030e5a5d3eb",
+  "title": "Mitra Kami",
+  "slug": "mitra-kami",
+  "nama": "Mitra Kami",
+  "deskripsi": "Mitra UKS\nBidang Usaha Mitra:&nbsp;\n&nbsp; &nbsp; &nbsp;Dunia Industri, Industri Pendidikan, Organisasi Masyarakat, Yayasan, Perusahaan Komunikasi, Badan&nbsp; PBB, dll\nBentuk dukungan Mitra:\n\nMelakukan pendampingan implementasi Penguatan Peran UKS atau Sekolah Sehat di satuan dampingan\n\nPemberian b",
+  "logo_url": null,
+  "published_at": "2024-03-13 16:09:49.263",
+  "kategori": null,
+  "website_url": null
+ },
+ {
+  "id": "2a4fd544-f35c-4bfd-9bf4-bd5affe24340",
+  "title": "Pendaftaran Mitra",
+  "slug": "pendaftaran-mitra",
+  "nama": "Pendaftaran Mitra",
+  "deskripsi": "Halaman Pendaftaran Mitra sedang dikembangkan.",
+  "logo_url": null,
+  "published_at": "2024-03-13 15:35:58.19",
+  "kategori": null,
+  "website_url": null
+ }
+]
+
+
+================================================================================
+PATH: /mitra/mitra-kami
+COMPONENT: Program/Show
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- mitra ---
+{
+ "title": "Mitra Kami",
+ "categori": null,
+ "content": "<h2 dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: Fredoka, sans-serif; font-size: 18pt;\">Mitra UKS</span></h2>\n<p dir=\"ltr\"><span style=\"font-family: Fredoka, sans-serif;\"><strong>Bidang Usaha Mitra:&nbsp;</strong></span></p>\n<p dir=\"ltr\"><span style=\"font-family: Fredoka, sans-serif;\">&nbsp; &nbsp; &nbsp;Dunia Industri, Industri Pendidikan, Organisasi Masyarakat, Yayasan, Perusahaan Komunikasi, Badan&nbsp; PBB, dll</span></p>\n<p dir=\"ltr\"><span style=\"font-family: Fredoka, sans-serif;\"><strong>Bentuk dukungan Mitra:</strong></span></p>\n<ol>\n<li dir=\"ltr\" style=\"font-family: Fredoka, sans-serif;\" role=\"presentation\"><span style=\"font-family: Fredoka, sans-serif;\">Melakukan pendampingan implementasi Penguatan Peran UKS atau Sekolah Sehat di satuan dampingan</span></li>\n<li dir=\"ltr\" style=\"font-family: Fredoka, sans-serif;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span style=\"font-family: Fredoka, sans-serif;\">Pemberian bantuan sarana dan prasarana&nbsp;</span></p>\n</li>\n<li dir=\"ltr\" style=\"font-family: Fredoka, sans-serif;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span style=\"font-family: Fredoka, sans-serif;\">Dukungan untuk publikasi dan komunikasi</span></p>\n</li>\n<li dir=\"ltr\" style=\"font-family: Fredoka, sans-serif;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span style=\"font-family: Fredoka, sans-serif;\">Peningkatan Kapasitas Pendidik dan Peserta Didik</span></p>\n</li>\n</ol>\n<p style=\"font-family: Fredoka, sans-serif;\">&nbsp;</p>\n<p style=\"font-family: Fredoka, sans-serif;\">&nbsp;</p>\n<p><span style=\"font-family: Fredoka, sans-serif; font-size: 18pt;\"><strong>Mitra 2025</strong></span></p>\n<ol>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span style=\"font-family: Fredoka, sans-serif; font-size: 12pt;\">UNICEF Indonesia</span></p>\n</li>\n<li><span style=\"font-family: Fredoka, sans-serif; font-size: 12pt;\">Save The Children Indonesia</span></li>\n<li dir=\"ltr\" style=\"font-family: Fredoka, sans-serif; font-size: 12pt;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span style=\"font-family: Fredoka, sans-serif; font-size: 12pt;\">AIA Financial</span></p>\n</li>\n<li dir=\"ltr\" style=\"font-family: Fredoka, sans-serif; font-size: 12pt;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span style=\"font-family: Fredoka, sans-serif; font-size: 12pt;\">Maleo Edukasi (<a href=\"http://educourse.id\">educourse.id</a>)</span></p>\n</li>\n<li dir=\"ltr\" style=\"font-family: Fredoka, sans-serif; font-size: 12pt;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span style=\"font-family: Fredoka, sans-serif; font-size: 12pt;\">KAO Indonesia</span></p>\n</li>\n<li dir=\"ltr\" style=\"font-family: Fredoka, sans-serif; font-size: 12pt;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\"><span style=\"font-fam
+...[TRUNCATED]
+
+--- mitraLainnya ---
+[
+ {
+  "id": "0b317817-30f9-45bd-a5a9-536d55975621",
+  "title": "Dukungan Mitra",
+  "slug": "dukungan-mitra",
+  "nama": "Dukungan Mitra",
+  "deskripsi": "Bentuk Dukungan Mitra\n\n\n\nNo\nNama Mitra\nPeriode\nBentuk Dukungan\n\n\n1\nUNICEF - Section Nutrition\nMaret s.d. November 2025\n\n&nbsp; &nbsp;Bentuk Kolaborasi: &nbsp;\n\nPanduan Implementasi Program Makan Bergizi Gratis di Satuan Pendidikan\nModul Pelatihan Implementasi Program Makan Bergizi Gratis di Satuan P",
+  "logo_url": null,
+  "published_at": "2024-04-03 11:03:22.673",
+  "kategori": null,
+  "website_url": null
+ },
+ {
+  "id": "2a4fd544-f35c-4bfd-9bf4-bd5affe24340",
+  "title": "Pendaftaran Mitra",
+  "slug": "pendaftaran-mitra",
+  "nama": "Pendaftaran Mitra",
+  "deskripsi": "Halaman Pendaftaran Mitra sedang dikembangkan.",
+  "logo_url": null,
+  "published_at": "2024-03-13 15:35:58.19",
+  "kategori": null,
+  "website_url": null
+ },
+ {
+  "id": "b961396b-7d01-479d-b18f-014701d4faf2",
+  "title": "Panduan Kemitraan",
+  "slug": "panduan-kemitraan",
+  "nama": "Panduan Kemitraan",
+  "deskripsi": "\n\n\n\n\n\nBentuk Kerja Sama\n\n\n\n\n\nPembangunan sarana/fasilitas terkait aktivitas Sekolah Sehat\nPenyediaan prasarana/perlengkapan/peralatan penunjang beragam aktivitas Sekolah Sehat\nPenyelenggaraan kegiatan peningkatan kapasitas SDM/kegiatan edukatif bagi peserta didik, pendidik, guru, tenaga kependidikan",
+  "logo_url": null,
+  "published_at": "2024-03-05 14:17:32",
+  "kategori": null,
+  "website_url": null
+ }
+]
+
+
+================================================================================
+PATH: /mitra/dukungan-mitra
+COMPONENT: Program/Show
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- mitra ---
+{
+ "title": "Dukungan Mitra",
+ "categori": null,
+ "content": "<h1 style=\"text-align: center;\"><span style=\"color: rgb(22, 145, 121);\">Bentuk Dukungan Mitra</span></h1>\n<table style=\"border-collapse: collapse; width: 100%; height: 3307.04px;\" border=\"1\"><colgroup><col style=\"width: 6.31757%;\"><col style=\"width: 26.8948%;\"><col style=\"width: 12.6341%;\"><col style=\"width: 54.1516%;\"></colgroup>\n<tbody>\n<tr style=\"height: 26.1285px;\">\n<td style=\"text-align: center; height: 26.1285px;\"><span style=\"color: rgb(35, 111, 161);\"><strong><span style=\"font-size: 14pt;\">No</span></strong></span></td>\n<td style=\"text-align: center; height: 26.1285px;\"><span style=\"color: rgb(35, 111, 161);\"><strong><span style=\"font-size: 14pt;\">Nama Mitra</span></strong></span></td>\n<td style=\"text-align: center; height: 26.1285px;\"><span style=\"color: rgb(35, 111, 161);\"><strong><span style=\"font-size: 14pt;\">Periode</span></strong></span></td>\n<td style=\"text-align: center; height: 26.1285px;\"><span style=\"color: rgb(35, 111, 161); font-size: 14pt;\"><strong>Bentuk Dukungan</strong></span></td>\n</tr>\n<tr style=\"height: 359.184px;\">\n<td style=\"text-align: center; height: 359.184px;\">1</td>\n<td style=\"text-align: center; height: 359.184px;\"><span style=\"font-size: 18pt;\"><strong>UNICEF - Section Nutrition</strong></span></td>\n<td style=\"text-align: center; height: 359.184px;\"><span style=\"font-size: 11pt;\">Maret s.d. November 2025</span></td>\n<td style=\"height: 359.184px;\">\n<p><span style=\"font-size: 11pt;\"><strong>&nbsp; &nbsp;<span style=\"font-family: helvetica;\">Bentuk Kolaborasi</span></strong><span style=\"font-family: helvetica;\">: &nbsp;</span></span></p>\n<ul>\n<li style=\"font-size: 11pt; font-family: helvetica;\"><span style=\"font-size: 11pt; font-family: helvetica;\">Panduan Implementasi Program Makan Bergizi Gratis di Satuan Pendidikan</span></li>\n<li style=\"font-size: 11pt; font-family: helvetica;\"><span style=\"font-size: 11pt; font-family: helvetica;\">Modul Pelatihan Implementasi Program Makan Bergizi Gratis di Satuan Pendidikan</span></li>\n<li style=\"font-size: 11pt; font-family: helvetica;\"><span style=\"font-size: 11pt; font-family: helvetica;\">Modul Edukasi Gizi pada Program Makan Bergizi Gratis di Satuan Pendidikan</span></li>\n</ul>\n<p><span style=\"font-size: 11pt; font-family: helvetica;\"><strong>&nbsp; &nbsp;Kegiatan</strong>:&nbsp;</span></p>\n<ol>\n<li style=\"font-size: 11pt; font-family: helvetica;\"><span style=\"font-size: 11pt; font-family: helvetica;\">Review</span></li>\n<li style=\"font-size: 11pt; font-family: helvetica;\"><span style=\"font-size: 11pt; font-family: helvetica;\">Penyusunan</span></li>\n<li style=\"font-size: 11pt; font-family: helvetica;\"><span style=\"font-size: 11pt; font-family: helvetica;\">Finalisasi</span></li>\n<li style=\"font-size: 11pt; font-family: helvetica;\"><span style=\"font-size: 11pt; font-family: helvetica;\">Peluncuran</s
+...[TRUNCATED]
+
+--- mitraLainnya ---
+[
+ {
+  "id": "0d922693-dc3c-4c2e-be27-4030e5a5d3eb",
+  "title": "Mitra Kami",
+  "slug": "mitra-kami",
+  "nama": "Mitra Kami",
+  "deskripsi": "Mitra UKS\nBidang Usaha Mitra:&nbsp;\n&nbsp; &nbsp; &nbsp;Dunia Industri, Industri Pendidikan, Organisasi Masyarakat, Yayasan, Perusahaan Komunikasi, Badan&nbsp; PBB, dll\nBentuk dukungan Mitra:\n\nMelakukan pendampingan implementasi Penguatan Peran UKS atau Sekolah Sehat di satuan dampingan\n\nPemberian b",
+  "logo_url": null,
+  "published_at": "2024-03-13 16:09:49.263",
+  "kategori": null,
+  "website_url": null
+ },
+ {
+  "id": "2a4fd544-f35c-4bfd-9bf4-bd5affe24340",
+  "title": "Pendaftaran Mitra",
+  "slug": "pendaftaran-mitra",
+  "nama": "Pendaftaran Mitra",
+  "deskripsi": "Halaman Pendaftaran Mitra sedang dikembangkan.",
+  "logo_url": null,
+  "published_at": "2024-03-13 15:35:58.19",
+  "kategori": null,
+  "website_url": null
+ },
+ {
+  "id": "b961396b-7d01-479d-b18f-014701d4faf2",
+  "title": "Panduan Kemitraan",
+  "slug": "panduan-kemitraan",
+  "nama": "Panduan Kemitraan",
+  "deskripsi": "\n\n\n\n\n\nBentuk Kerja Sama\n\n\n\n\n\nPembangunan sarana/fasilitas terkait aktivitas Sekolah Sehat\nPenyediaan prasarana/perlengkapan/peralatan penunjang beragam aktivitas Sekolah Sehat\nPenyelenggaraan kegiatan peningkatan kapasitas SDM/kegiatan edukatif bagi peserta didik, pendidik, guru, tenaga kependidikan",
+  "logo_url": null,
+  "published_at": "2024-03-05 14:17:32",
+  "kategori": null,
+  "website_url": null
+ }
+]
+
+
+================================================================================
+PATH: /aktifitas-mitra
+COMPONENT: Mitra/Index
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- mitraList ---
+{
+ "current_page": 1,
+ "data": [
+  {
+   "id": "cee66a35-9189-4f4d-ab8d-3203387ae908",
+   "slug": "kemendikbudristek-ri-wvi-dan-sun-life-indonesia-kolaborasi-tumbuhkan-kebiasaan-hidup-aktif-dan-sehat-anak-di-perkotaan-dan-daerah-3t-melalui-program-boks",
+   "nama": "Kemendikbudristek RI, WVI, dan Sun Life Indonesia Kolaborasi Tumbuhkan Kebiasaan Hidup Aktif dan Sehat Anak di Perkotaan dan Daerah 3T Melalui Program BOKS",
+   "deskripsi": "Jakarta 9 Agustus 2024 – Wahana Visi Indonesia (WVI) dengan dukungan Sun Life Indonesia berkolaborasi dengan Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi melalui Gerakan Sekolah Sehat (GSS) dalam menumbuhkan kesadaran agar anak-anak memiliki kebiasaan hidup sehat sejak dini. Melalui Prog",
+   "logo_url": "https://uks.kemendikdasmen.go.id/storage/aktifitas-mitra/thumbnail/download.jpg",
+   "published_at": "2024-08-21 07:00:00",
+   "kategori": null,
+   "is_active": false
+  },
+  {
+   "id": "cb2b25a0-cc58-43d4-b985-321169ec3a84",
+   "slug": "Dukung-Gerakan-Sekolah-Sehat-Kemendikbud-Manfaatkan-Aplikasi-OKY-untuk-Manajemen-Kebersihan-dan-Kesehatan-Menstruasi",
+   "nama": "Dukung Gerakan Sekolah Sehat, Kemendikbud Manfaatkan Aplikasi OKY untuk Manajemen Kebersihan dan Kesehatan Menstruasi",
+   "deskripsi": "\nJakarta, 28/6/2024.- Dalam upaya memperkuat Gerakan Sekolah Sehat (GSS), Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi (Kemendikbudristek) mendorong penggunaan aplikasi OKY di sekolah. Sebab, aplikasi tentang edukasi pubertas termasuk&nbsp; manajemen kebersihan dan kesehatan menstruasi (M",
+   "logo_url": "https://api-uks.kemendikdasmen.go.id//storage/manajemen_uks/files/images/L4SkV3Yf93HWt5kAcehNXVDhy77C0prvzjRmmFls.jpg",
+   "published_at": "2024-07-17 00:00:00",
+   "kategori": null,
+   "is_active": false
+  },
+  {
+   "id": "c7329356-02f4-407b-95d2-22a9c8d891a7",
+   "slug": "AIA-Umumkan-Pemenang-Kompetisi-AIA-Healthiest-Schools",
+   "nama": "AIA UMUMKAN PEMENANG KOMPETISI  AIA HEALTHIEST SCHOOLS",
+   "deskripsi": "Denpasar, 5 Juli 2024 – AIA Group Limited (“AIA” atau “Grup”) dengan bangga mengumumkan pemenang regional dari Kompetisi AIA Healthiest Schools yang kedua. Kompetisi ini merupakan bagian dari program AIA Healthiest Schools yang diluncurkan pada tahun 2022, yang bertujuan untuk mendorong pola makan s",
+   "logo_url": "https://uks.kemendikdasmen.go.id/storage/aktifitas-mitra/thumbnail/Screenshot 2026-08-20 102009.png",
+   "published_at": "2024-07-17 00:00:00",
+   "kategori": null,
+   "is_active": false
+  },
+  {
+   "id": "b1424413-61f9-4dc7-b42e-a5e6fb139044",
+   "slug": "Bermitra-dengan-Gerakan-Sekolah-Sehat-Kemendikbudristek-Mondelez-Indonesia-Tingkatkan-Edukasi-BijakPlastikSejakDini",
+   "nama": "Bermitra dengan Gerakan Sekolah Sehat (GSS) Kemendikbudristek, Mondelez Indonesia Tingkatkan Edukasi #BijakPlastikSejakDini",
+   "deskripsi": "Wujud nyata kontribusi #MondelezUntukIndonesia, sekaligus penguatan komitmen perusahaan terhadap pengendalian sampah plastik Jakarta, 26 Juni 2024 – 
+...[TRUNCATED]
+
+--- kategoriList ---
+[]
+
+--- filters ---
+[]
+
+
+================================================================================
+PATH: /informasi/aplikasi
+COMPONENT: Aplikasi/Index
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- aplikasiList ---
+[
+ {
+  "aplikasi_id": "14a4f440-0ae7-4eda-81a8-c32d916ecdfe",
+  "nama": "Aplikasi SIJIWA",
+  "logo": "https://api-uks.kemdikbud.go.id//storage/manajemen_uks/files/images/zaNnkN85kKXxV9eVeTWcQbT0ZAM9lpzmQtncWJCt.png",
+  "deskripsi": "SIJIWA adalah aplikasi sistem informasi Jiwa.\n&nbsp;",
+  "client": "GARUDA TEKNOLOGI INDONESIA",
+  "link": "https://play.google.com/store/apps/details?id=com.sijiwa&hl=id&gl=US",
+  "qrcode": "https://api-uks.kemendikdasmen.go.id/storage/manajemen_uks/files/images/XGkupS8dwzYpqOxYcrxXddWd9KTLDW6uavZSacFJ.png",
+  "logo_url": "https://api-uks.kemdikbud.go.id//storage/manajemen_uks/files/images/zaNnkN85kKXxV9eVeTWcQbT0ZAM9lpzmQtncWJCt.png"
+ },
+ {
+  "aplikasi_id": "31d46e44-c427-4012-b1ba-cbbed2202689",
+  "nama": "Oky Period Tracker App For Girls",
+  "logo": "https://is3.cloudhost.id/storagedirectus1/manajemen_uks/files/images/n4tHzwyBiKpuTS8eRPz5C8j0DHDrA40UZ9d46Ztp.webp",
+  "deskripsi": "Oky adalah aplikasi seluler untuk anak perempuan (usia 10+) yang membantu Anda mengendalikan menstruasi dan hidup Anda melalui sedikit kesenangan!Dengan Oky, Anda dapat melacak bagaimana menstruasi me...",
+  "client": "UNICEF Digital Strategy",
+  "link": "https://play.google.com/store/apps/details?id=com.oky",
+  "qrcode": "https://api-uks.kemendikdasmen.go.id/storage/manajemen_uks/files/images/StsTcFS5mJvFfXIASP6Q4Np2jq1wxxWj0C1vmgHM.png",
+  "logo_url": "https://is3.cloudhost.id/storagedirectus1/manajemen_uks/files/images/n4tHzwyBiKpuTS8eRPz5C8j0DHDrA40UZ9d46Ztp.webp"
+ }
+]
+
+
+================================================================================
+PATH: /informasi/agenda
+COMPONENT: Agenda/Index
+================================================================================
+
+--- flash ---
+{
+ "success": null,
+ "error": null
+}
+
+--- agendaList ---
+{
+ "current_page": 1,
+ "data": [
+  {
+   "slug": "peluncuran-revitalisasi-uks-melalui-sekolah-sehat",
+   "file1": "public/manajemen_uks/files/images/VeM6M8GavCHCtN3RJauvXUOpYgfFv5ORMpDg7K7H.jpg",
+   "id": "29077a99-debf-4218-9c88-232a214cf36b",
+   "judul": "Peluncuran Revitalisasi UKS melalui Sekolah Sehat",
+   "deskripsi": "https://www.youtube.com/watch?v=p3bck1lxCkU",
+   "tanggal_mulai": "2024-03-12",
+   "tanggal_selesai": "2024-03-12",
+   "gambar_url": "https://uks.kemendikdasmen.go.id/storage/public/manajemen_uks/files/images/VeM6M8GavCHCtN3RJauvXUOpYgfFv5ORMpDg7K7H.jpg",
+   "jenis_agenda": {
+    "jenis_agenda_id": 7,
+    "nama": "Sekolah Sehat",
+    "slug": "sekolah-sehat"
+   }
+  },
+  {
+   "slug": "webinar-peluncuran-bimtek-daring-mandiri-pada-laman-uksm",
+   "file1": null,
+   "id": "5cb01bcc-63c5-4624-8d91-bb34079ff3cc",
+   "judul": "Webinar Peluncuran BIMTEK Daring Mandiri Pada Laman UKS/M",
+   "deskripsi": "https://www.youtube.com/watch?v=Y0TtKL_T5UQ",
+   "tanggal_mulai": "2024-03-12",
+   "tanggal_selesai": "2024-03-12",
+   "gambar_url": null,
+   "jenis_agenda": {
+    "jenis_agenda_id": 1,
+    "nama": "UKS",
+    "slug": "uks"
+   }
+  },
+  {
+   "slug": "sekolah-sehat-kemendikbud-ri",
+   "file1": "public/manajemen_uks/files/images/V0xJPRaiH2cu0H270mKLZmCL9KIb3rS44Oxl5WH3.jpg",
+   "id": "69a54cb8-da09-4c2c-ad02-83901a78b64d",
+   "judul": "Sekolah Sehat – Kemendikbud RI",
+   "deskripsi": "https://www.youtube.com/watch?v=Cbqg3RnW0ss\nSekolahku Sehat\nPagi membuka hariKu siap tuk sekolah lagiBapak dan Ibu berpesanMari kita saling menjaga\nAyo mulai peduliDimulai kita sendiri\nHey! Ho! Hey!Hey! Ho!Jalani hidup bersih dan sehatHey! Ho! Hey!Hey! Ho!Makan dan minum pilih yang sehat\nBergerak he",
+   "tanggal_mulai": "2024-03-12",
+   "tanggal_selesai": "2024-03-12",
+   "gambar_url": "https://uks.kemendikdasmen.go.id/storage/public/manajemen_uks/files/images/V0xJPRaiH2cu0H270mKLZmCL9KIb3rS44Oxl5WH3.jpg",
+   "jenis_agenda": {
+    "jenis_agenda_id": 7,
+    "nama": "Sekolah Sehat",
+    "slug": "sekolah-sehat"
+   }
+  },
+  {
+   "slug": "menumbuhkan-perilaku-hidup-bersih-dan-sehat-melalui-cuci-tangan-pakai-sabun",
+   "file1": "public/manajemen_uks/files/images/xhTZ6xnjBlUVOY1WPBAskakzQX6PTfsYGMOBeAOE.png",
+   "id": "a15db158-8d56-4624-bd78-c50d523111bf",
+   "judul": "Menumbuhkan Perilaku Hidup Bersih dan Sehat Melalui Cuci Tangan Pakai Sabun",
+   "deskripsi": "\nBogor, 23 Oktober 2023 &ndash; Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek) melalui Direktorat Jenderal Pendidikan Anak Usia Dini, Pendidikan Dasar, dan Pendidikan Menengah mengadakan rangkaian kegiatan memperingati Hari Cuci Tangan Pakai Sabun (HCTPS) Sedunia yang b",
+   "tanggal_mulai": "2023-10-22",
+   "tanggal_selesai": "2023-10-23",
+   "gambar_url": "https://uks.kemendikdasmen.go.id/storage/public/manajemen_uks/files/images/xhTZ6xnjBlUVOY1WPBAskakzQX6PTfsYGMOBeAOE.png",
+   "jenis_agenda": {
+    "jenis_agenda_id": 7,
+    "nama": "Sekolah Sehat",
+    "slug": "sekola
+...[TRUNCATED]
+
+--- kategoriList ---
+[
+ {
+  "jenis_agenda_id": 2,
+  "nama": "Sekolah",
+  "slug": "sekolah"
+ },
+ {
+  "jenis_agenda_id": 7,
+  "nama": "Sekolah Sehat",
+  "slug": "sekolah-sehat"
+ },
+ {
+  "jenis_agenda_id": 1,
+  "nama": "UKS",
+  "slug": "uks"
+ }
+]
+
+--- filters ---
+[]

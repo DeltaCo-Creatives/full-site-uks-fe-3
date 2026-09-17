@@ -1,0 +1,94 @@
+[
+  {
+    "nama": "Poster 8 MBG ",
+    "slug": "poster-8-mbg",
+    "tanggal_dokumen": "2026-08-24T00:00:00.000000Z",
+    "thumbnail": "publikasi/thumbnail/01M1E2F1YPNQ3SQ240CSZ86CYM.png",
+    "id": "4fe0cfcf-3904-40a5-b61e-d72c16183d7b",
+    "judul": "Poster 8 MBG ",
+    "deskripsi": "MBG ",
+    "gambar_url": "https://uks.kemendikdasmen.go.id/storage/publikasi/cover/01M1E2F1YH0EHDF1FMHQMPNJFW.png",
+    "file_url": "https://uks.kemendikdasmen.go.id/storage/publikasi/file/01M1E2F1YT0DE2D3G4J1B4G7EY.pdf",
+    "video_url": null,
+    "published_at": "2026-08-24 00:00:00",
+    "files": [
+      {
+        "file_id": "b9c36e2a-7fc8-4849-b6df-e750ee40a076",
+        "header_id": "4fe0cfcf-3904-40a5-b61e-d72c16183d7b",
+        "table": "publikasi",
+        "path": "publikasi/file/01M1E2F1YT0DE2D3G4J1B4G7EY.pdf",
+        "c_view": 51,
+        "c_unduh": 14
+      }
+    ]
+  },
+  {
+    "nama": "Poster 7 KAIH SD",
+    "slug": "poster-7-kaih-sd",
+    "tanggal_dokumen": "2025-12-01T04:28:00.000000Z",
+    "thumbnail": null,
+    "id": "742debb4-66fa-4931-b16c-d0fd677bfd57",
+    "judul": "Poster 7 KAIH SD",
+    "deskripsi": null,
+    "gambar_url": "https://mewarnai.id/wp-content/uploads/2020/11/bunga-matahari-di-pot.jpg",
+    "file_url": null,
+    "video_url": null,
+    "published_at": "2025-12-01 04:28:00",
+    "files": [
+      {
+        "file_id": "ccdd77b3-91ea-438d-bbae-965ef20a9a94",
+        "header_id": "742debb4-66fa-4931-b16c-d0fd677bfd57",
+        "table": "publikasi",
+        "path": "https://uks.kemendikdasmen.go.id//storage/manajemen_uks/files/images/mgXBiRpTBBtVHOo8FDe2jSpolyuhs3Fc5h9PKVSG.png",
+        "c_view": 37,
+        "c_unduh": 22
+      }
+    ]
+  },
+  {
+    "nama": "Poster 7 KAIH SMP",
+    "slug": "poster-7-kaih-smp",
+    "tanggal_dokumen": "2025-12-01T04:27:00.000000Z",
+    "thumbnail": null,
+    "id": "8545aefa-d8b6-4766-a813-61a1751beeee",
+    "judul": "Poster 7 KAIH SMP",
+    "deskripsi": null,
+    "gambar_url": "https://mewarnai.id/wp-content/uploads/2020/11/bunga-matahari-di-pot.jpg",
+    "file_url": null,
+    "video_url": null,
+    "published_at": "2025-12-01 04:27:00",
+    "files": [
+      {
+        "file_id": "1d388e92-9836-4528-a540-5a884bf39f8f",
+        "header_id": "8545aefa-d8b6-4766-a813-61a1751beeee",
+        "table": "publikasi",
+        "path": "https://uks.kemendikdasmen.go.id//storage/manajemen_uks/files/images/OamyRxJWRuZNNRo4Tl3Wl7XjEZYBGcaj2bCepDW1.png",
+        "c_view": 25,
+        "c_unduh": 19
+      }
+    ]
+  },
+  {
+    "nama": "Poster 7 KAIH SMA/SMK",
+    "slug": "poster-7-kaih-smasmk",
+    "tanggal_dokumen": "2025-12-01T04:25:00.000000Z",
+    "thumbnail": null,
+    "id": "b717c6cf-9a08-4faa-8357-ad096f9fa4f9",
+    "judul": "Poster 7 KAIH SMA/SMK",
+    "deskripsi": null,
+    "gambar_url": "https://mewarnai.id/wp-content/uploads/2020/11/bunga-matahari-di-pot.jpg",
+    "file_url": null,
+    "video_url": null,
+    "published_at": "2025-12-01 04:25:00",
+    "files": [
+      {
+        "file_id": "015d6d17-9c95-4424-b24d-39492bbcb37e",
+        "header_id": "b717c6cf-9a08-4faa-8357-ad096f9fa4f9",
+        "table": "publikasi",
+        "path": "https://uks.kemendikdasmen.go.id/storage/manajemen_uks/files/images/MswOb4CMWV1PxljoGegzZ2szFyKKClGBeIsWezVV.png",
+        "c_view": 17,
+        "c_unduh": 7
+      }
+    ]
+  }
+]

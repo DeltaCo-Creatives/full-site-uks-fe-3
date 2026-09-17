@@ -1,0 +1,29 @@
+{
+  "fokus": [
+    {
+      "judul": "Sehat Bergizi",
+      "ikon": "Heart",
+      "deskripsi": "Pemenuhan gizi seimbang untuk mendukung pertumbuhan dan prestasi belajar."
+    },
+    {
+      "judul": "Sehat Fisik",
+      "ikon": "Award",
+      "deskripsi": "Aktivitas fisik rutin dan olahraga untuk kebugaran jasmani."
+    },
+    {
+      "judul": "Sehat Imunisasi",
+      "ikon": "Syringe",
+      "deskripsi": "Perlindungan dari penyakit melalui imunisasi lengkap."
+    },
+    {
+      "judul": "Sehat Jiwa",
+      "ikon": "Smile",
+      "deskripsi": "Dukungan kesehatan mental dan kesejahteraan psikososial."
+    },
+    {
+      "judul": "Sehat Lingkungan",
+      "ikon": "TreePine",
+      "deskripsi": "Lingkungan sekolah bersih, hijau, dan berkelanjutan."
+    }
+  ]
+}

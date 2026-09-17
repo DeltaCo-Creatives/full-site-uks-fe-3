@@ -1,0 +1,98 @@
+[
+  {
+    "nama": "Buku Pedoman Kesehatan Jiwa di Satpen Jenjang  SMP",
+    "slug": "buku-pedoman-kesehatan-jiwa-di-satpen-jenjang-smp",
+    "tanggal_dokumen": "2026-08-31T00:00:00.000000Z",
+    "id": "d9ccedc2-fb55-40be-9492-f915b45766fa",
+    "judul": "Buku Pedoman Kesehatan Jiwa di Satpen Jenjang  SMP",
+    "deskripsi": "UKS, kesehatan jiwa",
+    "gambar_url": "https://uks.kemendikdasmen.go.id/storage/publikasi/cover/cover_buku_pedoman_keswa_smp.png",
+    "file_url": "https://uks.kemendikdasmen.go.id/storage/publikasi/file/buku_pedoman_keswa_smp.pdf",
+    "video_url": null,
+    "published_at": "2026-08-31 00:00:00",
+    "files": [
+      {
+        "file_id": "f353132f-94ba-44a0-90fa-04405180f1bc",
+        "header_id": "d9ccedc2-fb55-40be-9492-f915b45766fa",
+        "table": "publikasi",
+        "path": "publikasi/file/buku_pedoman_keswa_smp.pdf",
+        "c_view": 16,
+        "c_unduh": 59
+      }
+    ]
+  },
+  {
+    "nama": "PANDUAN IMPLEMENTASI PROGRAM MAKAN BERGIZI GRATIS DI SATUAN PENDIDIKAN",
+    "slug": "panduan-implementasi-program-makan-bergizi-gratis-di-satuan-pendidikan",
+    "tanggal_dokumen": "2026-08-24T00:00:00.000000Z",
+    "id": "e5511d02-358b-4b5c-a616-454d2428501b",
+    "judul": "PANDUAN IMPLEMENTASI PROGRAM MAKAN BERGIZI GRATIS DI SATUAN PENDIDIKAN",
+    "deskripsi": "MBG & Gizi Sekolah",
+    "gambar_url": "https://uks.kemendikdasmen.go.id/storage/publikasi/cover/Screenshot 2026-08-26 145140.png",
+    "file_url": "https://uks.kemendikdasmen.go.id/storage/publikasi/file/FA_A5_Panduan MBG 2025_ttd.pdf",
+    "video_url": null,
+    "published_at": "2026-08-24 00:00:00",
+    "files": [
+      {
+        "file_id": "27c3331d-5214-450b-a471-246a5db85060",
+        "header_id": "e5511d02-358b-4b5c-a616-454d2428501b",
+        "table": "publikasi",
+        "path": "publikasi/file/FA_A5_Panduan MBG 2025_ttd.pdf",
+        "c_view": 25,
+        "c_unduh": 54
+      }
+    ]
+  },
+  {
+    "nama": "PEDOMAN PENDIDIKAN KRAKTER dalam Makan Bergizi Gratis",
+    "slug": "pedoman-pendidikan-krakter-dalam-makan-bergizi-gratis",
+    "tanggal_dokumen": "2026-08-13T00:00:00.000000Z",
+    "id": "c1d30b83-d6f6-41d7-bebc-fe5bccbdc234",
+    "judul": "PEDOMAN PENDIDIKAN KRAKTER dalam Makan Bergizi Gratis",
+    "deskripsi": "MBG ",
+    "gambar_url": "https://uks.kemendikdasmen.go.id/storage/publikasi/cover/Screenshot 2026-08-18 100941.png",
+    "file_url": "https://uks.kemendikdasmen.go.id/storage/publikasi/file/Buku Pedoman Pendidikan Karakter dalam MBG-dikompresi.pdf",
+    "video_url": null,
+    "published_at": "2026-08-13 00:00:00",
+    "files": [
+      {
+        "file_id": "a2354a45-eb27-4371-a448-f4aa5dc51297",
+        "header_id": "c1d30b83-d6f6-41d7-bebc-fe5bccbdc234",
+        "table": "publikasi",
+        "path": "publikasi/cover/Screenshot 2026-08-18 100941.png",
+        "c_view": 12,
+        "c_unduh": 29
+      },
+      {
+        "file_id": "c8befc9a-fcc8-424a-a492-ca541a5ab812",
+        "header_id": "c1d30b83-d6f6-41d7-bebc-fe5bccbdc234",
+        "table": "publikasi",
+        "path": "publikasi/file/Buku Pedoman Pendidikan Karakter dalam MBG-dikompresi.pdf",
+        "c_view": 10,
+        "c_unduh": 32
+      }
+    ]
+  },
+  {
+    "nama": "Pedoman Kesehatan Sekolah",
+    "slug": "pedoman-kesehatan-sekolah",
+    "tanggal_dokumen": "2026-07-06T17:45:00.000000Z",
+    "id": "dbb53707-d00c-4fd4-89b6-51d369e30a8e",
+    "judul": "Pedoman Kesehatan Sekolah",
+    "deskripsi": "pendidikan, kesehatan",
+    "gambar_url": "https://uks.kemendikdasmen.go.id/storage/manajemen_uks/files/images/7S3q8COfp2nNyWQ2XA5Q5hA630XnWGHpMcmRJ7TB.png",
+    "file_url": null,
+    "video_url": null,
+    "published_at": "2026-07-06 17:45:00",
+    "files": [
+      {
+        "file_id": "0920fb33-4b5b-4de9-aa8e-9a0c69102c8c",
+        "header_id": "dbb53707-d00c-4fd4-89b6-51d369e30a8e",
+        "table": "publikasi",
+        "path": "https://uks.kemendikdasmen.go.id//storage/manajemen_uks/files/images/Nh0RJdezi80671jMgePJYelKjFgLpd35L3MZkVyx.pdf",
+        "c_view": 91,
+        "c_unduh": 158
+      }
+    ]
+  }
+]
