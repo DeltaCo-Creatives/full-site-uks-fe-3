@@ -31,8 +31,8 @@ export default function Footer() {
           <div>
             <p className="text-xs font-bold uppercase tracking-[0.15em] text-brand-100/70">Jelajahi</p>
             <ul className="mt-3 flex flex-col gap-2 text-sm text-brand-100/80">
-              <li><Link to="/uks-m/deskripsi-umum" className="hover:text-white">Tentang UKS/M</Link></li>
-              <li><Link to="/sekolah-sehat" className="hover:text-white">Gerakan Sekolah Sehat</Link></li>
+              <li><Link to="/uks-m/tentang" className="hover:text-white">Tentang UKS/M</Link></li>
+              <li><Link to="/uks-m/sekolah-sehat" className="hover:text-white">Gerakan Sekolah Sehat</Link></li>
               <li><Link to="/informasi/berita" className="hover:text-white">Berita</Link></li>
               <li><Link to="/publikasi/buku-panduan" className="hover:text-white">Buku Panduan</Link></li>
               <li><Link to="/mitra/mitra-kami" className="hover:text-white">Mitra Kami</Link></li>

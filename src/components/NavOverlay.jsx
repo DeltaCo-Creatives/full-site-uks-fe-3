@@ -89,7 +89,7 @@ function CategoryPanel({ node, onNavigate }) {
 const QUICK_LINKS = [
   { title: 'Berita Terbaru', url: '/informasi/berita' },
   { title: 'Buku Panduan', url: '/publikasi/buku-panduan' },
-  { title: 'Cek Kesehatan Gratis', url: '/program/cek-kesehatan-gratis' },
+  { title: 'Pencarian', url: '/pencarian' },
   { title: 'Kontak', url: '/kontak' },
 ]
 

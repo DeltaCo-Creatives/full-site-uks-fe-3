@@ -1,4 +1,5 @@
-// Curated from the live navItems payload served by https://uks.kemendikdasmen.go.id/
+// Structure follows the simplified DEV sitemap (docs/sitemaps/sitemap-dev-uks.MD), with
+// Sekolah Sehat (GSS) kept as a UKS/M menu item as in the uks-fe reference project.
 // `ext: true` marks links that leave the site (matches the ↗ marker used on the real site).
 
 export const NAV = [
@@ -6,71 +7,11 @@ export const NAV = [
   {
     title: 'UKS/M',
     items: [
-      { title: 'Deskripsi Umum', url: '/uks-m/deskripsi-umum' },
-      { title: 'Tujuan', url: '/uks-m/tujuan' },
-      { title: 'Sasaran', url: '/uks-m/sasaran' },
-      {
-        title: 'Struktur Organisasi',
-        items: [
-          { title: 'Tim Pembina UKS/M', url: '/uks-m/struktur-organisasi/tim-pembina' },
-          { title: 'Tim Pelaksana UKS/M di Sekolah/Madrasah', url: '/uks-m/struktur-organisasi/tim-pelaksana' },
-        ],
-      },
-      { title: 'Stratifikasi UKS/M', url: '/uks-m/stratifikasi' },
+      { title: 'Tentang UKS/M', url: '/uks-m/tentang' },
+      { title: 'Trias UKS/M', url: '/uks-m/trias' },
       { title: 'Manajemen UKS/M', url: '/uks-m/manajemen' },
-      {
-        title: 'Trias UKS/M',
-        isGroupLabel: true,
-        items: [
-          {
-            title: '(1) Pendidikan Kesehatan',
-            url: '/trias-uks-m/pendidikan-kesehatan',
-            items: [
-              'Literasi Kesehatan',
-              'Perilaku Hidup Bersih dan Sehat',
-              'Pendidikan Gizi',
-              'Pendidikan Kesehatan Reproduksi',
-              'Pendidikan Karakter',
-              'Pembiasaan Aktivitas Fisik',
-              'Dokter Kecil',
-            ],
-          },
-          {
-            title: '(2) Pelayanan Kesehatan',
-            url: '/trias-uks-m/pelayanan-kesehatan',
-            items: [
-              'Penjaringan Kesehatan dan Pemeriksaan Berkala',
-              'Imunisasi',
-              'Pemberian Obat Cacing',
-              'P3K dan P3P',
-            ],
-          },
-          {
-            title: '(3) Pembinaan Lingkungan Sekolah Sehat',
-            url: '/trias-uks-m/pembinaan-lingkungan-sekolah-sehat',
-            items: [
-              'Sanitasi Sekolah',
-              'Pembinaan Kantin Sehat',
-              'Pemanfaatan Pekarangan Sekolah',
-              'Pemberantasan Sarang Nyamuk',
-              'Kawasan Tanpa Rokok, Napza, Kekerasan dan Pornografi',
-            ],
-          },
-        ],
-      },
-      {
-        title: 'Sekolah Sehat',
-        items: [
-          { title: 'Gerakan Madrasah Sehat', url: 'https://madrasah.kemenag.go.id/madrasahsehat/', ext: true },
-          { title: 'Gerakan Sekolah Sehat', url: '/sekolah-sehat' },
-          { title: 'Sehat Bergizi', url: '/sekolah-sehat/sehat-bergizi' },
-          { title: 'Sehat Fisik', url: '/sekolah-sehat/sehat-fisik' },
-          { title: 'Sehat Imunisasi', url: '/sekolah-sehat/sehat-imunisasi' },
-          { title: 'Sehat Jiwa', url: '/sekolah-sehat/sehat-jiwa' },
-          { title: 'Sehat Lingkungan', url: '/sekolah-sehat/sehat-lingkungan' },
-          { title: 'Bahan Advokasi GSS', url: '/sekolah-sehat/bahan-advokasi' },
-        ],
-      },
+      { title: 'Stratifikasi UKS/M', url: '/uks-m/stratifikasi' },
+      { title: 'Sekolah Sehat (GSS)', url: '/uks-m/sekolah-sehat' },
     ],
   },
   {
@@ -78,13 +19,14 @@ export const NAV = [
     items: [
       { title: '7 Kebiasaan Anak Indonesia Hebat (7KAIH)', url: '/program/7kaih' },
       { title: 'Makan Bergizi Gratis (MBG)', url: '/program/mbg' },
-      { title: 'Cek Kesehatan Gratis (CKG)', url: '/program/cek-kesehatan-gratis' },
+      { title: 'Cek Kesehatan Gratis (CKG)', url: '/program/ckg' },
       { title: 'Gerakan Sekolah ASRI', url: '/program/asri' },
     ],
   },
   {
     title: 'Mitra',
     items: [
+      { title: 'Tentang Mitra UKS/M', url: '/mitra/tentang' },
       { title: 'Panduan Kemitraan', url: '/mitra/panduan-kemitraan' },
       { title: 'Mitra Kami', url: '/mitra/mitra-kami' },
       { title: 'Aktivitas Mitra', url: '/mitra/aktivitas-mitra' },
@@ -97,12 +39,14 @@ export const NAV = [
       { title: 'Berita', url: '/informasi/berita' },
       { title: 'Praktik Baik', url: '/informasi/praktik-baik' },
       { title: 'UPT Bercerita', url: '/informasi/upt-bercerita' },
+      { title: 'Agenda', url: '/informasi/agenda' },
       { title: 'Aplikasi', url: '/informasi/aplikasi' },
     ],
   },
   {
     title: 'Publikasi',
     items: [
+      { title: 'Produk Hukum', url: '/publikasi/produk-hukum' },
       { title: 'Buku Panduan', url: '/publikasi/buku-panduan' },
       { title: 'Infografis', url: '/publikasi/infografis' },
       { title: 'Video', url: '/publikasi/video' },
