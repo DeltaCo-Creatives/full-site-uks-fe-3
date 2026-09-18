@@ -5,9 +5,14 @@ import { STRATIFIKASI } from '../data/site'
 export default function Stratifikasi() {
   return (
     <>
-      <PageHero eyebrow="UKS/M" title={STRATIFIKASI.title} description={STRATIFIKASI.intro} crumbs={[{ label: 'UKS/M', to: '/uks-m/deskripsi-umum' }, { label: 'Stratifikasi UKS/M' }]} />
+      <PageHero eyebrow="UKS/M" title={STRATIFIKASI.title} description={STRATIFIKASI.intro} crumbs={[{ label: 'UKS/M', to: '/uks-m/tentang' }, { label: 'Stratifikasi UKS/M' }]} />
       <div className="mx-auto max-w-5xl px-5 pb-20 sm:px-6">
-        <Reveal className="mb-8">
+        <Reveal className="mb-8 rounded-md bg-white p-6 shadow-soft sm:p-7">
+          <p className="mb-2 text-sm font-bold uppercase tracking-wide text-brand-600">Apa itu Stratifikasi UKS/M?</p>
+          <p className="text-sm leading-relaxed text-ink-soft">{STRATIFIKASI.definition}</p>
+        </Reveal>
+
+        <Reveal delay={0.04} className="mb-8">
           <p className="mb-4 text-sm font-bold uppercase tracking-wide text-brand-600">4 Tingkatan</p>
           <div className="flex flex-wrap items-center gap-2">
             {STRATIFIKASI.levels.map((l, i) => (
@@ -25,7 +30,7 @@ export default function Stratifikasi() {
 
         <div className="grid gap-6 sm:grid-cols-2">
           <Reveal delay={0.06} className="rounded-md bg-white p-6 shadow-soft">
-            <h3 className="font-display text-lg font-semibold text-ink">Fungsi</h3>
+            <h3 className="font-display text-lg font-semibold text-ink">Tujuan Stratifikasi</h3>
             <ul className="mt-3 flex flex-col gap-2.5">
               {STRATIFIKASI.functions.map((f) => (
                 <li key={f} className="flex items-start gap-2.5 text-sm leading-relaxed text-ink-soft">
@@ -47,6 +52,11 @@ export default function Stratifikasi() {
             </ul>
           </Reveal>
         </div>
+
+        <Reveal delay={0.15} className="mt-6 rounded-md bg-paper-dim/70 p-6">
+          <p className="mb-2 text-sm font-bold uppercase tracking-wide text-brand-600">Cara Penilaian</p>
+          <p className="text-sm leading-relaxed text-ink-soft">{STRATIFIKASI.assessment}</p>
+        </Reveal>
 
         <Reveal delay={0.18} className="mt-8 flex flex-col items-start gap-3 rounded-md bg-brand-900 p-7 text-white sm:flex-row sm:items-center sm:justify-between">
           <div>

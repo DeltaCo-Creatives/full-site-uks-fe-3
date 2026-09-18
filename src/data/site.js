@@ -140,16 +140,35 @@ export const MANAJEMEN_UKSM = {
     'Manajemen Sekolah/Madrasah Sehat adalah kegiatan-kegiatan yang berhubungan dengan tata kelola pelaksanaan Trias UKS/M. Terdapat 5 (lima) komponen manajemen Sekolah/Madrasah Sehat:',
   components: [
     { title: 'Kebijakan', body: 'Payung kebijakan sebagai rujukan pelaksanaan Trias UKS/M secara konsisten, sistematis, dan berkelanjutan, di tingkat pusat maupun daerah, termasuk penganggaran dan peran masing-masing pihak.' },
-    { title: 'Perencanaan dan Penganggaran', body: 'Tim Pembina UKS/M bersama sekolah/madrasah merencanakan kegiatan berdasarkan hasil asesmen. Mencakup kegiatan prioritas, waktu, SDM, sasaran, dan anggaran, terintegrasi dengan RKS dengan sumber dana APBN, APBD, dan sumber lain yang tidak mengikat.' },
+    {
+      title: 'Perencanaan dan Penganggaran',
+      body: 'Tim Pembina UKS/M bersama sekolah/madrasah merencanakan kegiatan Sekolah/Madrasah Sehat berdasarkan hasil asesmen, terintegrasi dengan RKS (Rencana Kerja Sekolah).',
+      detail: [
+        'Kegiatan Prioritas — disusun berdasarkan hasil asesmen status kesehatan sekolah/madrasah dan peserta didik.',
+        'SDM & Sasaran — sumber daya manusia pelaksana dan sasaran kegiatan ditetapkan di muka.',
+        'Sumber Anggaran — APBN, APBD, dan sumber lain yang tidak mengikat.',
+      ],
+    },
     { title: 'Koordinasi', body: 'Sinkronisasi perencanaan, pelaksanaan, monitoring dan evaluasi mulai dari tingkat Pusat, Provinsi, Kota/Kabupaten, Kecamatan hingga satuan pendidikan, dilakukan rutin minimal 3 bulan sekali.' },
     { title: 'Peningkatan Kapasitas', body: 'Orientasi dan pelatihan tata kelola Sekolah/Madrasah Sehat bagi guru, dilengkapi buku panduan, KIE, dan sarana prasarana pendukung.' },
-    { title: 'Monitoring dan Evaluasi', body: 'Pemantauan berkala untuk memastikan pelaksanaan Trias UKS/M berjalan sesuai rencana dan memberi dasar bagi perbaikan berkelanjutan.' },
+    {
+      title: 'Monitoring dan Evaluasi',
+      body: 'Strata UKS/M menjadi acuan utama monitoring dan evaluasi. Monitoring dilakukan setiap bulan oleh Tim Pembina UKS/M kecamatan terhadap 20 aspek pelaksanaan Trias UKS/M dan manajemen UKS/M; evaluasi menilai capaian pada target 6 bulan, 1 tahun ajaran, dan 3 tahun pelaksanaan.',
+      detail: [
+        'Monitoring — memantau pelaksanaan pendidikan kesehatan, pelayanan kesehatan, pembinaan lingkungan sehat, dan manajemen UKS/M setiap bulan.',
+        'Evaluasi — tiga tahap: perencanaan (asesmen awal, penetapan target), pelaksanaan (pengumpulan dan analisis data), dan tindak lanjut (pelaporan dan rekomendasi perbaikan).',
+      ],
+    },
   ],
 }
 
 export const STRATIFIKASI = {
   title: 'Stratifikasi UKS/M',
   intro: 'Alat bantu untuk mengetahui capaian dan kekurangan satuan pendidikan dalam penyelenggaraan UKS/M.',
+  definition:
+    'Stratifikasi UKS/M adalah alat ukur kinerja yang dilakukan oleh sekolah dan Puskesmas (Tim Pelaksana UKS/M Kecamatan) serta Kementerian di pusat atau OPD terkait di Kab/Kota (Tim Pembina UKS/M Kab/Kota) terhadap pelaksanaan Trias UKS/M, guna mengetahui apa yang sudah dicapai dan apa yang masih perlu dilakukan satuan pendidikan untuk mencapai strata Minimal, Standar, Optimal, hingga Paripurna.',
+  assessment:
+    'Penilaian bersifat absolut: sekolah/madrasah harus memenuhi seluruh indikator (pendidikan kesehatan, pelayanan kesehatan, pembinaan lingkungan sekolah sehat, dan manajemen UKS/M) pada satu kelompok strata tertentu, sebelum dapat dinyatakan berada pada strata tersebut.',
   levels: ['Minimal', 'Standar', 'Optimal', 'Paripurna'],
   functions: [
     'Alat ukur pelaksanaan Trias UKS/M',
