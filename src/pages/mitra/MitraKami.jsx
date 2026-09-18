@@ -1,7 +1,7 @@
 import PageHero from '../../components/PageHero'
 import Reveal from '../../components/Reveal'
 import MitraTabs from './MitraTabs'
-import { MITRA_KAMI } from '../../data/mitra'
+import { MITRA_KAMI, MITRA_KAMI_TAHUN } from '../../data/mitra'
 import { MITRA_CLIENTS } from '../../data/mitraClients'
 
 export default function MitraKami() {
@@ -35,6 +35,24 @@ export default function MitraKami() {
             <Reveal key={c.name} delay={(i % 8) * 0.04} className="flex flex-col items-center gap-3 rounded-md bg-white p-5 text-center shadow-soft transition hover:-translate-y-1 hover:shadow-lift">
               <img src={c.logo} alt={c.fullName} className="h-10 w-full object-contain" loading="lazy" />
               <span className="text-xs font-medium leading-snug text-ink-soft">{c.fullName}</span>
+            </Reveal>
+          ))}
+        </div>
+
+        <h3 className="mb-4 mt-12 font-display text-lg font-semibold text-ink">Direktori Mitra per Tahun</h3>
+        <div className="grid gap-5 sm:grid-cols-3">
+          {MITRA_KAMI_TAHUN.map((group, i) => (
+            <Reveal key={group.tahun} delay={i * 0.08} className="rounded-md bg-white p-6 shadow-soft">
+              <p className="text-sm font-bold uppercase tracking-wide text-brand-600">Mitra {group.tahun}</p>
+              <p className="mt-1 text-xs font-medium text-ink-soft/80">{group.mitra.length} mitra</p>
+              <ol className="mt-4 flex flex-col gap-2">
+                {group.mitra.map((nama, idx) => (
+                  <li key={nama} className="flex gap-2 text-sm leading-relaxed text-ink-soft">
+                    <span className="shrink-0 text-ink-soft/60">{idx + 1}.</span>
+                    {nama}
+                  </li>
+                ))}
+              </ol>
             </Reveal>
           ))}
         </div>

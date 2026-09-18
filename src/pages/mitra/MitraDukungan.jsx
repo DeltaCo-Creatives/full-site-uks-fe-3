@@ -11,10 +11,10 @@ export default function MitraDukungan() {
         <MitraTabs />
         <div className="flex flex-col gap-4">
           {DUKUNGAN_MITRA.rows.map((row, i) => (
-            <Reveal key={row.nama} delay={i * 0.06} className="rounded-md bg-white p-6 shadow-soft sm:p-7">
+            <Reveal key={row.nama} delay={(i % 10) * 0.05} className="rounded-md bg-white p-6 shadow-soft sm:p-7">
               <div className="flex flex-wrap items-center justify-between gap-2">
                 <h3 className="font-display text-lg font-semibold text-ink">{row.nama}</h3>
-                <span className="rounded-full bg-brand-50 px-3 py-1 text-xs font-bold text-brand-700">{row.periode}</span>
+                {row.periode && <span className="rounded-full bg-brand-50 px-3 py-1 text-xs font-bold text-brand-700">{row.periode}</span>}
               </div>
               <p className="mt-4 mb-2 text-xs font-bold uppercase tracking-wide text-ink-soft/80">Bentuk Kolaborasi</p>
               <ul className="flex flex-col gap-2">
@@ -25,6 +25,28 @@ export default function MitraDukungan() {
                   </li>
                 ))}
               </ul>
+              {(row.penerimaManfaat || row.lokasi || row.pembiayaan) && (
+                <dl className="mt-5 grid gap-3 border-t border-ink/10 pt-4 sm:grid-cols-3">
+                  {row.penerimaManfaat && (
+                    <div>
+                      <dt className="text-[11px] font-bold uppercase tracking-wide text-ink-soft/80">Penerima Manfaat</dt>
+                      <dd className="mt-1 text-sm leading-relaxed text-ink-soft">{row.penerimaManfaat}</dd>
+                    </div>
+                  )}
+                  {row.lokasi && (
+                    <div>
+                      <dt className="text-[11px] font-bold uppercase tracking-wide text-ink-soft/80">Lokasi</dt>
+                      <dd className="mt-1 text-sm leading-relaxed text-ink-soft">{row.lokasi}</dd>
+                    </div>
+                  )}
+                  {row.pembiayaan && (
+                    <div>
+                      <dt className="text-[11px] font-bold uppercase tracking-wide text-ink-soft/80">Pembiayaan</dt>
+                      <dd className="mt-1 text-sm leading-relaxed text-ink-soft">{row.pembiayaan}</dd>
+                    </div>
+                  )}
+                </dl>
+              )}
             </Reveal>
           ))}
         </div>

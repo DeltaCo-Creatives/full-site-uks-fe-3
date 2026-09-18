@@ -1,6 +1,7 @@
 import { Link, useLocation } from 'react-router-dom'
 
 const TABS = [
+  { to: '/mitra/tentang', label: 'Tentang Mitra UKS/M' },
   { to: '/mitra/panduan-kemitraan', label: 'Panduan Kemitraan' },
   { to: '/mitra/mitra-kami', label: 'Mitra Kami' },
   { to: '/mitra/aktivitas-mitra', label: 'Aktivitas Mitra' },
