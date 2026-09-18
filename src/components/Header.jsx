@@ -27,6 +27,18 @@ export default function Header() {
           </Link>
 
           <div className="flex items-center gap-2">
+            <Magnetic>
+              <Link
+                to="/pencarian"
+                aria-label="Cari"
+                className="grid size-11 shrink-0 place-items-center rounded-md border border-ink/15 text-ink-soft transition hover:border-brand-500 hover:text-brand-700"
+              >
+                <svg viewBox="0 0 20 20" fill="none" width="17" height="17">
+                  <circle cx="9" cy="9" r="6.2" stroke="currentColor" strokeWidth="1.6" />
+                  <path d="M17 17l-3.4-3.4" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
+                </svg>
+              </Link>
+            </Magnetic>
             <Link
               to="/kontak"
               className="hidden px-3 py-2 text-sm font-semibold text-ink-soft transition hover:text-ink sm:block"
