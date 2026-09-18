@@ -1,17 +1,11 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import PageHero from '../../components/PageHero'
 import Reveal from '../../components/Reveal'
+import Modal from '../../components/Modal'
 import { INFOGRAFIS } from '../../data/infografis'
 
 export default function Infografis() {
   const [preview, setPreview] = useState(null)
-
-  useEffect(() => {
-    if (!preview) return undefined
-    const onKey = (e) => e.key === 'Escape' && setPreview(null)
-    window.addEventListener('keydown', onKey)
-    return () => window.removeEventListener('keydown', onKey)
-  }, [preview])
 
   return (
     <>
@@ -35,10 +29,9 @@ export default function Infografis() {
         </div>
       </div>
 
-      {preview && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center p-5" onClick={() => setPreview(null)}>
-          <div className="absolute inset-0 bg-ink/70 backdrop-blur-sm" />
-          <div className="relative max-h-[85vh] max-w-lg overflow-hidden rounded-md bg-white shadow-lift" onClick={(e) => e.stopPropagation()}>
+      <Modal open={!!preview} onClose={() => setPreview(null)} label={preview?.title} className="max-w-lg">
+        {preview && (
+          <>
             <img src={preview.image} alt={preview.title} className="max-h-[75vh] w-full object-contain" />
             <div className="flex items-center justify-between gap-3 p-4">
               <p className="text-sm font-semibold text-ink">{preview.title}</p>
@@ -46,9 +39,9 @@ export default function Infografis() {
                 Tutup
               </button>
             </div>
-          </div>
-        </div>
-      )}
+          </>
+        )}
+      </Modal>
     </>
   )
 }
