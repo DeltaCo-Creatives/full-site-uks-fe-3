@@ -1,17 +1,50 @@
+import { useMemo } from 'react'
+import { useSearchParams } from 'react-router-dom'
 import PageHero from '../../components/PageHero'
 import ArticleCard from '../../components/ArticleCard'
+import FilterBar from '../../components/informasi/FilterBar'
 import { BERITA } from '../../data/berita'
 
 export default function Berita() {
+  const [searchParams, setSearchParams] = useSearchParams()
+  const kategori = searchParams.get('kategori')
+  const sort = searchParams.get('urutan') === 'oldest' ? 'oldest' : 'newest'
+
+  const categories = useMemo(() => [...new Set(BERITA.map((b) => b.category).filter(Boolean))], [])
+
+  const items = useMemo(() => {
+    const filtered = kategori ? BERITA.filter((b) => b.category === kategori) : BERITA
+    return [...filtered].sort((a, b) => (sort === 'oldest' ? new Date(a.date) - new Date(b.date) : new Date(b.date) - new Date(a.date)))
+  }, [kategori, sort])
+
+  const setKategori = (value) => {
+    const next = new URLSearchParams(searchParams)
+    if (value) next.set('kategori', value)
+    else next.delete('kategori')
+    setSearchParams(next)
+  }
+
+  const setSort = (value) => {
+    const next = new URLSearchParams(searchParams)
+    if (value === 'oldest') next.set('urutan', 'oldest')
+    else next.delete('urutan')
+    setSearchParams(next)
+  }
+
   return (
     <>
       <PageHero eyebrow="Informasi" title="Berita" description="Kabar terbaru seputar UKS/M dan program sekolah sehat." crumbs={[{ label: 'Informasi' }, { label: 'Berita' }]} />
       <div className="mx-auto max-w-6xl px-5 pb-20 sm:px-6">
-        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-          {BERITA.map((b, i) => (
-            <ArticleCard key={b.slug} {...b} delay={(i % 6) * 0.06} slugPrefix={`halaman/berita/${b.slug}`} />
-          ))}
-        </div>
+        <FilterBar categories={categories} active={kategori} onSelect={setKategori} sort={sort} onSortChange={setSort} />
+        {items.length === 0 ? (
+          <p className="py-16 text-center text-sm text-ink-soft">Tidak ada berita untuk kategori ini.</p>
+        ) : (
+          <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {items.map((b, i) => (
+              <ArticleCard key={b.slug} {...b} delay={(i % 6) * 0.06} href={`/informasi/berita/${b.slug}`} />
+            ))}
+          </div>
+        )}
       </div>
     </>
   )
