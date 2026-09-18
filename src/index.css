@@ -42,6 +42,11 @@ html {
   scroll-behavior: smooth;
 }
 
+/* keep in-page anchors clear of the sticky header */
+[id] {
+  scroll-margin-top: 6rem;
+}
+
 body {
   margin: 0;
   background: var(--color-paper);
