@@ -1,9 +1,9 @@
+import { Link } from 'react-router-dom'
 import { formatDate } from '../lib/format'
-import { SITE } from '../data/site'
 import Reveal from './Reveal'
 
-export default function ArticleCard({ title, summary, image, date, category, delay = 0, slugPrefix = 'halaman/berita' }) {
-  const sourceUrl = `${SITE.sourceUrl}/${slugPrefix}`
+// `href` is the internal detail route, e.g. /informasi/berita/{slug}
+export default function ArticleCard({ title, summary, image, date, category, href, delay = 0 }) {
   return (
     <Reveal delay={delay} className="group flex h-full flex-col overflow-hidden rounded-md border border-ink/10 bg-white transition hover:-translate-y-1 hover:shadow-lift">
       <div className="aspect-[16/10] w-full overflow-hidden bg-brand-100">
@@ -27,17 +27,15 @@ export default function ArticleCard({ title, summary, image, date, category, del
         </div>
         <h3 className="font-display text-base font-semibold leading-snug text-ink">{title}</h3>
         {summary && <p className="line-clamp-3 text-sm leading-relaxed text-ink-soft">{summary}</p>}
-        <a
-          href={sourceUrl}
-          target="_blank"
-          rel="noreferrer"
+        <Link
+          to={href}
           className="mt-auto inline-flex items-center gap-1 pt-2 text-sm font-semibold text-brand-600 hover:text-brand-700"
         >
           Baca selengkapnya
           <svg viewBox="0 0 20 20" width="14" height="14" fill="none">
-            <path d="M7 13 13 7M13 7H8M13 7v5" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" />
+            <path d="M4 10h11M11 6l4 4-4 4" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" />
           </svg>
-        </a>
+        </Link>
       </div>
     </Reveal>
   )
